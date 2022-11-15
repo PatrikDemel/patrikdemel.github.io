@@ -107,15 +107,15 @@ footer {
 }
 
 .marA-1 {
-    margin: 1.5rem ;
+    margin: 1.5rem;
 }
 
 .marA-2 {
-    margin: 2.5rem ;
+    margin: 2.5rem;
 }
 
 .marA-3 {
-    margin: 3.5rem ;
+    margin: 3.5rem;
 }
 
 .padA-1 {
@@ -158,12 +158,12 @@ footer {
     font-family: 'Comfortaa', cursive;
 }
 
-.project-list  {
+.list {
     margin-bottom: 1rem;
     list-style: none;
 }
 
-.project-list li {
+.list li {
     padding: 0.5rem 0;
     border-bottom: gray dotted 1px;
 }
@@ -274,4 +274,45 @@ footer {
 
 #project .project-img {
     background: url("../img/project-image.jpg") no-repeat center center/cover;
+}
+
+
+/* Photos */
+#photos .items {
+    display: flex;
+    justify-content: space-between;
+}
+
+#photos .items img {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+
+/* Contact */
+#contact {
+    display: flex;
+}
+
+#contact div {
+    flex: 1;
+}
+
+#contact .contact-form .form-group {
+    margin: 0.75rem;
+}
+
+#contact .contact-form label {
+    display: block;
+}
+
+#contact .contact-form input,
+#contact .contact-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+#contact h3 {
+    margin-top: 2rem;
 }
