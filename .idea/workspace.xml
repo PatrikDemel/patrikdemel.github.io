@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="edits in contact.html">
-      <change beforePath="$PROJECT_DIR$/zanetademelova/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/zanetademelova/cs/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zanetademelova/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/zanetademelova/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,8 @@
       <workItem from="1668634093236" duration="63000" />
       <workItem from="1668643348871" duration="17000" />
       <workItem from="1668652186737" duration="1029000" />
-      <workItem from="1668653317310" duration="258000" />
+      <workItem from="1668653317310" duration="278000" />
+      <workItem from="1668653631585" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -210,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668653409532</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="edits in contact.html">
+      <created>1668653591929</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668653591929</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
