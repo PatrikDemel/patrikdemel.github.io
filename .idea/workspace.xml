@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changes in index.html" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new project">
+      <change afterPath="$PROJECT_DIR$/zanetademelova/submissionSent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zanetademelova/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/zanetademelova/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zanetademelova/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/zanetademelova/cs/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,7 +98,7 @@
       <workItem from="1668633881418" duration="20000" />
       <workItem from="1668634093236" duration="63000" />
       <workItem from="1668643348871" duration="17000" />
-      <workItem from="1668652186737" duration="12000" />
+      <workItem from="1668652186737" duration="999000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -179,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668628613040</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new project">
+      <created>1668652219962</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668652219962</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +223,7 @@
     <MESSAGE value="added script" />
     <MESSAGE value="changes in index.html, added photos into directory img" />
     <MESSAGE value="changes in index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in index.html" />
+    <MESSAGE value="new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project" />
   </component>
 </project>

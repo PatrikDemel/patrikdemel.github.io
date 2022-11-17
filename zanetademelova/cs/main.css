@@ -148,10 +148,9 @@ a {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: center;
     width: 40%;
-    padding-left: 15%;
     overflow: hidden;
+    padding: 6rem 0 0 15%;
 }
 
 #contactinfo div {
@@ -175,7 +174,7 @@ a {
     justify-content: center;
     width: 60%;
     padding-left: 6%;
-    margin: 9% 0;
+    margin: 5% 0;
 }
 
 #contactform form {
@@ -191,6 +190,10 @@ a {
 
 #contactform textarea {
     width: 40%;
+}
+
+#contactform p {
+    margin-bottom: 2rem;
 }
 
 
@@ -211,6 +214,11 @@ a {
     margin: 0 5%;
 }
 
+
+/* Thank you */
+#thankyou {
+    flex-direction: column;
+}
 
 /* Footer */
 footer {
