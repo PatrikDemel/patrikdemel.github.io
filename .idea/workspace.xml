@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changes in index.html" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H9IGrvdPNPI8mV8aTVAGfBicos" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Projekt2testing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Projekt2\img" />
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Projekt2\js" />
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="" />
+      <created>1667690779961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667690779961</updated>
+      <workItem from="1667690781125" duration="86000" />
+      <workItem from="1667695042586" duration="1016000" />
+      <workItem from="1667696442661" duration="99000" />
+      <workItem from="1667698095858" duration="622000" />
+      <workItem from="1667891065275" duration="4785000" />
+      <workItem from="1667941428521" duration="656000" />
+      <workItem from="1667943569225" duration="65000" />
+      <workItem from="1668067217924" duration="5546000" />
+      <workItem from="1668105859958" duration="2125000" />
+      <workItem from="1668110247562" duration="3358000" />
+      <workItem from="1668113641588" duration="559000" />
+      <workItem from="1668114297460" duration="93000" />
+      <workItem from="1668163675886" duration="137000" />
+      <workItem from="1668190377251" duration="163000" />
+      <workItem from="1668190554381" duration="6000" />
+      <workItem from="1668190653451" duration="10000" />
+      <workItem from="1668190952138" duration="2000" />
+      <workItem from="1668190962694" duration="3000" />
+      <workItem from="1668191695803" duration="35000" />
+      <workItem from="1668191858787" duration="129000" />
+      <workItem from="1668193550327" duration="619000" />
+      <workItem from="1668196582740" duration="30000" />
+      <workItem from="1668353865970" duration="5000" />
+      <workItem from="1668353883267" duration="20000" />
+      <workItem from="1668363850538" duration="26000" />
+      <workItem from="1668369086825" duration="55000" />
+      <workItem from="1668371336581" duration="146000" />
+      <workItem from="1668496035384" duration="5276000" />
+      <workItem from="1668626732887" duration="1583000" />
+      <workItem from="1668628420765" duration="537000" />
+      <workItem from="1668633881418" duration="20000" />
+      <workItem from="1668634093236" duration="63000" />
+      <workItem from="1668643348871" duration="17000" />
+      <workItem from="1668652186737" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="edits in index.html">
+      <created>1667895188358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667895188358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edits in index.html and main.css">
+      <created>1667896300503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667896300503</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed icons in index.html">
+      <created>1667942080355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667942080355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg">
+      <created>1668072787274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668072787274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first push">
+      <created>1668114046798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668114046798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="testing push">
+      <created>1668114142259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668114142259</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes in index.html, main.css, deleted directory js, new photo added project-photo.img">
+      <created>1668114197255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668114197255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new directory doucovani">
+      <created>1668196603226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668196603226</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added script">
+      <created>1668496339651</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668496339651</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added script">
+      <created>1668501440590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668501440590</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changes in index.html, added photos into directory img">
+      <created>1668628310634</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668628310634</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes in index.html">
+      <created>1668628613039</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668628613040</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="edits in index.html" />
+    <MESSAGE value="edits in index.html and main.css" />
+    <MESSAGE value="changed icons in index.html" />
+    <MESSAGE value="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg" />
+    <MESSAGE value="deleted directory js and script.js, edits in index.html and main.css, added photo project-image.jpg" />
+    <MESSAGE value="changes added" />
+    <MESSAGE value="first push" />
+    <MESSAGE value="testing push" />
+    <MESSAGE value="changes in index.html, main.css, deleted directory js, new photo added project-photo.img" />
+    <MESSAGE value="new directory doucovani" />
+    <MESSAGE value="added script" />
+    <MESSAGE value="changes in index.html, added photos into directory img" />
+    <MESSAGE value="changes in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in index.html" />
+  </component>
+</project>

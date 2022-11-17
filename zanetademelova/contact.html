@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="cs/main.css">
+    <!-- Link Icon -->
+    <link rel="icon" href="./img/title-icon.svg">
+    <!-- Link Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <!-- Link FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+          integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <!-- Title -->
+    <title>Žaneta Demelová | Kontakt</title>
+</head>
+
+
+<body>
+<!-- Navigation Bar -->
+<nav id="navbar">
+    <div class="logo"><a href="index.html">Žaneta Demelová</a></div>
+    <ul>
+        <li><a href="index.html">Úvod</a></li>
+        <li><a class="current" href="contact.html">Kontakt</a></li>
+        <li><a href="events.html">Akce</a></li>
+        <li><a href="about.html">O mně</a></li>
+    </ul>
+</nav>
+<!-- Contact -->
+<section class="card-section" id="contact">
+    <div class="container">
+        <div id="contactinfo">
+            <h2 class="heading-2 pad-1 text-bold">Kontakt</h2>
+            <div class="pad-2">
+                <i class="fa-solid fa-phone fa-2x"></i>
+                <p class="paragraph-1">+420 777 700 769</p>
+            </div>
+            <div class="pad-2">
+                <i class="fa-regular fa-envelope fa-2x"></i>
+                <p class="paragraph-1">zaneta.demelova@seznam.cz</p>
+            </div>
+        </div>
+        <div id="contactform" class="separator-L">
+            <form action="https://formsubmit.co/patrikdemel@icloud.com" method="POST"/>
+                <input type="hidden" name="_subject" value="New submission">
+                <label for="fullname">Jméno a příjmení</label>
+                <input name="FullName" type="text" id="fullname" required>
+                 <label for="email">Email</label>
+                <input name="Email" type="email" id="email" required>
+                <label for="message">Zpráva</label>
+                <textarea name="Message" id="message" cols="1" rows="5" required></textarea>
+                <button type="submit" class="btn-dark text-bold text-center">Odeslat</button>
+            </form>
+        </div>
+    </div>
+</section>
+<!-- Footer -->
+<footer class="pad-1 text-center">
+    <p>&copy;2022 Žaneta Demelová</p>
+</footer>
+</body>
+</html>
