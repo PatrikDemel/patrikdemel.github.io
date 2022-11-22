@@ -1,5 +1,5 @@
 // Smooth scrolling
-$('#navbar a, .btn').on('click', function (event) {
+$('#navigation_bar a, .btn').on('click', function (event) {
     if (this.hash !== '') {
         event.preventDefault();
         const hash = this.hash;
@@ -13,7 +13,7 @@ $('#navbar a, .btn').on('click', function (event) {
 
 
 var nav_sections = $('section');
-var main_nav = $('#navbar li, .mobile-nav');
+var main_nav = $('#navigation_bar li, .mobile-nav');
 
 $(window).on('scroll', function () {
 
@@ -43,7 +43,7 @@ $(window).on('scroll', function () {
         }
 
         if (cur_pos < 300) {
-            $("#navbar ul li a").removeClass('active');
+            $("#navigation_bar ul li a").removeClass('active');
         }
     });
 });
