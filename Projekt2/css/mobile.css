@@ -19,11 +19,7 @@
     #navigation_bar {
         flex-direction: column;
         align-items: center;
-    }
-
-    #navigation_bar .logo {
-        margin-bottom: 1.3rem;
-        text-align: center;
+        justify-content: center;
     }
 
     .heading-1 {

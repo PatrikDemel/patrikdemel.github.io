@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="responsivity">
-      <change beforePath="$PROJECT_DIR$/Projekt2/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt2/css/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/css/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt2/js/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +106,8 @@
       <workItem from="1668727574778" duration="949000" />
       <workItem from="1668813311715" duration="8000" />
       <workItem from="1669100445718" duration="5652000" />
-      <workItem from="1669106365216" duration="69000" />
+      <workItem from="1669106365216" duration="98000" />
+      <workItem from="1669134059988" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -259,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669106394635</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="responsivity">
+      <created>1669106439334</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669106439334</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
