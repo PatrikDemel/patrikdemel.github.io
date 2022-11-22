@@ -21,13 +21,13 @@ $(window).on('scroll', function () {
 
     // Menu Opacity on scrolling and hidding source
 
-    if (cur_pos > 350) {
-        document.querySelector('#navbar').style.opacity = 0.9;
-        document.querySelector('#showcase .showcase-content').style.display = "none";
-    } else {
-        document.querySelector('#navbar').style.opacity = 1;
-        document.querySelector('#showcase .showcase-content').style.display = "block";
-    }
+    // if (cur_pos > 350) {
+    //     document.querySelector('#navbar').style.opacity = 0.9;
+    //     document.querySelector('#showcase .showcase-content').style.display = "none";
+    // } else {
+    //     document.querySelector('#navbar').style.opacity = 1;
+    //     document.querySelector('#showcase .showcase-content').style.display = "block";
+    // }
 
     // Navigation active state on scroll
 

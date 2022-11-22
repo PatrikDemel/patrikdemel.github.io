@@ -330,3 +330,10 @@ footer {
     border: 1px solid black;
     color: black;
 }
+
+
+/* Footer */
+footer {
+    display: flex;
+    justify-items: center ;
+}
