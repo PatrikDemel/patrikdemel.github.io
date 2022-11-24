@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="added hamburger menu in index.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/css/responsive.css" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="hamburger menu changes">
+      <change beforePath="$PROJECT_DIR$/Projekt2/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/css/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <workItem from="1669134059988" duration="889000" />
       <workItem from="1669134998064" duration="645000" />
       <workItem from="1669277941113" duration="4521000" />
-      <workItem from="1669307021235" duration="2019000" />
+      <workItem from="1669307021235" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -306,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669308495485</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="hamburger menu changes">
+      <created>1669309075237</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309075237</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +352,7 @@
     <MESSAGE value="responsivity" />
     <MESSAGE value="edited index.html, mobile.css - hamburger menu" />
     <MESSAGE value="added hamburger menu in index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hamburger menu in index.html" />
+    <MESSAGE value="hamburger menu changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="hamburger menu changes" />
   </component>
 </project>
