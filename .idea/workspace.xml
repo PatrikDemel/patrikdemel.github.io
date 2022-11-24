@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="edited index.html, mobile.css - hamburger menu">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="added hamburger menu in index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/css/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt2/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/css/responsive.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,7 @@
       <workItem from="1669134059988" duration="889000" />
       <workItem from="1669134998064" duration="645000" />
       <workItem from="1669277941113" duration="4521000" />
-      <workItem from="1669307021235" duration="1445000" />
+      <workItem from="1669307021235" duration="2019000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -300,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669282531953</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added hamburger menu in index.html">
+      <created>1669308495485</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669308495485</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +344,7 @@
     <MESSAGE value="directory deleted" />
     <MESSAGE value="responsivity" />
     <MESSAGE value="edited index.html, mobile.css - hamburger menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited index.html, mobile.css - hamburger menu" />
+    <MESSAGE value="added hamburger menu in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hamburger menu in index.html" />
   </component>
 </project>
