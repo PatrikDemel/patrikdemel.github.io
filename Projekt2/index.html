@@ -23,7 +23,7 @@
     <!-- Import CSS -->
     <link rel="stylesheet" href="./css/main.css">
     <link rel="stylesheet" media="screen and (min-width: 1100px)" href="./css/widescreen.css">
-    <link rel="stylesheet" media="screen and (max-width: 768px)" href="./css/mobile.css">
+    <link rel="stylesheet" media="screen and (max-width: 768px)" href="./css/responsive.css">
     <!-- Title -->
     <title>Cestování | Projekt do PVA</title>
 </head>
@@ -167,24 +167,45 @@
 </footer>
 
 
-<!-- Smooth Scrolling -->
+<!--JQuery-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
         integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
     $("#navigation_bar #hamburger").click(function () {
-        $("#navigation_bar ul").slideToggle("slow");
-    };
+        $("#navigation_bar ul").slideToggle("slow")
+    });
 
-    if ($window).width() < 501
-    )
-    {
-        $("#navigation_bar ul li a").click(function ())
-        {
-            $("#navigation_bar ul").hide();
-        }
+    // Vanishing menu in less than 500px
+    window.addEventListener("resize", resizeListener);
+
+    let windowWidth = window.innerWidth;
+
+    function resizeListener() {
+        windowWidth = window.innerWidth;
     }
-    ;
+
+    if (windowWidth < 501) {
+        $("#navigation_bar ul").click(function () {
+            $("#navigation_bar ul").hide();
+        });
+    } else {
+        $("#navigation_bar ul").show();
+    }
+
+    // Position change on click
+    $("#navigation_bar a, .btn").on("click", function (event) {
+        if (this.hash !== " ") {
+            event.preventDefault();
+            const hash = this.hash;
+            $("html, body").animate(
+                {
+                    scrollTop: $(hash).offset().top - 260,
+                },
+                800
+            )
+        }
+    })
 
     // Smooth scrolling
     $('#navigation_bar a, .btn').on('click', function (event) {
