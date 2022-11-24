@@ -1,4 +1,4 @@
-#about .items{
+#about .items {
     display: block;
     padding: 1rem;
 }
@@ -18,8 +18,8 @@
 @media screen and (max-width: 500px) {
     #navigation_bar {
         flex-direction: column;
-        align-items: center;
         justify-content: center;
+        align-items: stretch;
     }
 
     .heading-1 {
@@ -42,7 +42,28 @@
     #contact {
         flex-direction: column;
     }
+
+    #navigation_bar #hamburger {
+        display: block;
+    }
+
+    #navigation_bar ul {
+        flex-direction: column;
+        align-items: stretch;
+        display: none;
+    }
+
+    #navigation_bar ul li {
+        padding: 0.5rem;
+        border-bottom: dotted gray 1px;
+    }
+
+    #navigation_bar ul li:first-child {
+        margin-top: 0.8rem;
+        border-top: dotted gray 1px;
+    }
 }
+
 @media screen and (max-height: 568px) {
     .heading-1 {
         font-size: 2rem;
