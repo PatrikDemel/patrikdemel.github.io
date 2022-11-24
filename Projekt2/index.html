@@ -172,15 +172,19 @@
         integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    $("#navigation_bar #hamburger").click(function ())
-    {
+    $("#navigation_bar #hamburger").click(function () {
         $("#navigation_bar ul").slideToggle("slow");
     };
 
-    $("#navigation_bar ul li a").click(function ())
+    if ($window).width() < 501
+    )
     {
-        $("#navigation_bar ul").hide();
-    };
+        $("#navigation_bar ul li a").click(function ())
+        {
+            $("#navigation_bar ul").hide();
+        }
+    }
+    ;
 
     // Smooth scrolling
     $('#navigation_bar a, .btn').on('click', function (event) {
