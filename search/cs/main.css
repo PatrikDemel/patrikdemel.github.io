@@ -49,34 +49,89 @@
 
 #searchbox {
     height: 3rem;
-    width: 30rem;
+    width: 35rem;
     border-radius: 25px;
     border: #000 1px solid;
 }
 
 .button {
     display: inline-block;
-    width: 7rem;
+    width: 9rem;
     height: 3rem;
-    background-color: #4284f3;
-    border-radius: 25px;
-    text-align: center;
-    padding-top: 0.9rem;
+    background-color: #646464;
     color: #fff;
     text-decoration: none;
-    margin: 0 1rem;
+    border: 1px #606060 solid;
+    margin: 2rem;
+    font-weight: 600;
+    padding-right: 1.5rem;
 }
 
 .button:hover{
-    background-color: #284d8d;
+    background-color: #444444;
+}
+
+#main-section form {
+    display: flex;
+    flex-direction: column;
 }
 
 #main-section h1 {
     font-size: 4rem;
     margin-bottom: 4rem;
-    padding-right: 3rem;
+    margin-left: 2rem;
 }
 
 #main-section input {
     padding-left: 2rem;
+}
+
+
+/*Advanced*/
+#advanced {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#advanced h1 {
+    text-align: center;
+}
+#advanced .content {
+    display: flex;
+    flex-direction: row;
+}
+#advanced .content input {
+    width: 40rem;
+    margin-left: 5rem;
+}
+
+#advanced h1 {
+    font-size: 2.5rem;
+    margin: 3rem 0 2rem 0;
+}
+
+#advanced p {
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+#advanced .labels {
+    display: flex;
+    flex-direction: column;
+}
+
+#advanced .labels label {
+    margin-bottom: 1.8rem;
+}
+
+#advanced .inputs {
+    display: flex;
+    flex-direction: column;
+}
+
+#advanced .inputs input {
+    margin-bottom: 1rem;
+    line-height: 1.6rem;
+    padding-left: 0.5rem;
 }
