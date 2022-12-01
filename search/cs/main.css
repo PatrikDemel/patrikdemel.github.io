@@ -56,7 +56,7 @@
 }
 
 .button {
-    display:flex;
+    display: flex;
     justify-content: center;
     width: 9rem;
     height: 3rem;
@@ -149,5 +149,12 @@
 #main-section #image-input {
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+
+/* Advanced */
+#advanced .inputs {
+    display: flex;
     align-items: center;
 }

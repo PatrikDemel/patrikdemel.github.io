@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="switched ul li a in index.html">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="advanced.html added to project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/search/cs/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
       <workItem from="1669277941113" duration="4521000" />
       <workItem from="1669307021235" duration="3035000" />
       <workItem from="1669705468515" duration="5716000" />
-      <workItem from="1669881500688" duration="2135000" />
+      <workItem from="1669881500688" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669883694992</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="advanced.html added to project">
+      <created>1669884178354</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1669884178354</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +384,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edits in index.html" />
     <MESSAGE value="edits in index.html and main.css" />
     <MESSAGE value="changed icons in index.html" />
     <MESSAGE value="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg" />
@@ -402,6 +408,7 @@
     <MESSAGE value="new project - google search" />
     <MESSAGE value="feeling lucky implemented to index.html" />
     <MESSAGE value="switched ul li a in index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="switched ul li a in index.html" />
+    <MESSAGE value="advanced.html added to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="advanced.html added to project" />
   </component>
 </project>
