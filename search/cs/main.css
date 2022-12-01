@@ -136,6 +136,7 @@
 #advanced .inputs {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 #advanced .inputs input {
@@ -154,7 +155,15 @@
 
 
 /* Advanced */
-#advanced .inputs {
+#advanced #advanced-button {
+    width: 13rem;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    background-color: #646464;
+    color: #fff;
+    text-decoration: none;
+    border: 1px #606060 solid;
+    margin: 2rem;
+    font-weight: 600;
+    padding-right: 0.5rem;
 }
