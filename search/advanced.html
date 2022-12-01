@@ -29,14 +29,14 @@
             <label for="any">Any of these words:</label>
             <label for="none">None of these words:</label>
         </div>
-        <div class="inputs">
-            <input type="text" id="all">
-            <input type="text" id="exact">
-            <input type="text" id="any">
-            <input type="text" id="none">
-        </div>
+        <form action="https://google.com/search" class="inputs">
+            <input type="text" id="all" name="as_q">
+            <input type="text" id="exact" name="as_epq">
+            <input type="text" id="any" name="as_oq">
+            <input type="text" id="none" name="as_eq">
+            <input type="submit" value="advanced search" class="button">
+        </form>
     </div>
-    <a href="#" class="button">Search</a>
 </section>
 </body>
 </html>

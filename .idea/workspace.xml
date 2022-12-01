@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="feeling lucky implemented to index.html">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="switched ul li a in index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/advanced.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,7 @@
       <workItem from="1669277941113" duration="4521000" />
       <workItem from="1669307021235" duration="3035000" />
       <workItem from="1669705468515" duration="5716000" />
-      <workItem from="1669881500688" duration="1851000" />
+      <workItem from="1669881500688" duration="2135000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -352,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669883427641</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="switched ul li a in index.html">
+      <created>1669883694992</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669883694992</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,6 +401,7 @@
     <MESSAGE value="changed file responsive.css to mobile.css" />
     <MESSAGE value="new project - google search" />
     <MESSAGE value="feeling lucky implemented to index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="feeling lucky implemented to index.html" />
+    <MESSAGE value="switched ul li a in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="switched ul li a in index.html" />
   </component>
 </project>
