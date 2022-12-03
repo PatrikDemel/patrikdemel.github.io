@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="main.css edited">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changed language cs to en">
+      <change afterPath="$PROJECT_DIR$/search/cs/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/advanced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/search/cs/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -113,7 +115,8 @@
       <workItem from="1669307021235" duration="3035000" />
       <workItem from="1669705468515" duration="5716000" />
       <workItem from="1669881500688" duration="2770000" />
-      <workItem from="1669884591295" duration="519000" />
+      <workItem from="1669884591295" duration="1452000" />
+      <workItem from="1670090009414" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -374,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669884558733</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="advanced css edited">
+      <created>1669885130667</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1669885130667</updated>
+    </task>
+    <task id="LOCAL-00039" summary="changed language cs to en">
+      <created>1669885277676</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1669885277676</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,8 +410,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed icons in index.html" />
-    <MESSAGE value="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg" />
     <MESSAGE value="deleted directory js and script.js, edits in index.html and main.css, added photo project-image.jpg" />
     <MESSAGE value="changes added" />
     <MESSAGE value="first push" />
@@ -418,6 +433,8 @@
     <MESSAGE value="switched ul li a in index.html" />
     <MESSAGE value="advanced.html added to project" />
     <MESSAGE value="main.css edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.css edited" />
+    <MESSAGE value="advanced css edited" />
+    <MESSAGE value="changed language cs to en" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed language cs to en" />
   </component>
 </project>

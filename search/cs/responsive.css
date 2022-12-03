@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation_bar  {
+    width: 100vw;
+}
+
+#main-section h1 {
+    margin: 2rem 0;
+    font-size: 2.5rem;
+}
+
+#main-section #searchbox {
+    width: 20rem;
+}
+
+#main-section form {
+    align-items: center;
+}
+
+#main-section .button {
+    margin: 1rem 0;
+    width: 10rem;
+}
+
+#main-section form div {
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+#advanced .content {
+    width: 100vw;
+}
+
+#advanced
