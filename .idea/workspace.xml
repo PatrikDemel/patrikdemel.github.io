@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changed language cs to en">
-      <change afterPath="$PROJECT_DIR$/search/cs/responsive.css" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="deleted responsive.css">
+      <change afterPath="$PROJECT_DIR$/Projekt4/vektory.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/advanced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt3/advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt3/cs/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt3/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/img/icon-title.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt3/img/icon-title.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +119,9 @@
       <workItem from="1669881500688" duration="2770000" />
       <workItem from="1669884591295" duration="1452000" />
       <workItem from="1670090009414" duration="721000" />
+      <workItem from="1670310338139" duration="491000" />
+      <workItem from="1670691715805" duration="862000" />
+      <workItem from="1670961433537" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -391,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669885277676</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="deleted responsive.css">
+      <created>1670310458433</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1670310458433</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +422,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="deleted directory js and script.js, edits in index.html and main.css, added photo project-image.jpg" />
     <MESSAGE value="changes added" />
     <MESSAGE value="first push" />
     <MESSAGE value="testing push" />
@@ -435,6 +446,7 @@
     <MESSAGE value="main.css edited" />
     <MESSAGE value="advanced css edited" />
     <MESSAGE value="changed language cs to en" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed language cs to en" />
+    <MESSAGE value="deleted responsive.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted responsive.css" />
   </component>
 </project>
