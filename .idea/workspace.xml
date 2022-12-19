@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new project (Projekt6) == ToDoList 1/2">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="javascript added &gt;&gt; saving to memory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt6/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekt6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt6/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt6/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,7 @@
       <workItem from="1671378247698" duration="3640000" />
       <workItem from="1671382008681" duration="578000" />
       <workItem from="1671382602033" duration="954000" />
-      <workItem from="1671465460393" duration="6429000" />
+      <workItem from="1671465460393" duration="6514000" />
     </task>
     <task id="LOCAL-00001" summary="edits in index.html">
       <created>1667895188358</created>
@@ -447,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671469257220</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="javascript added &gt;&gt; saving to memory">
+      <created>1671471971200</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1671471971200</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +473,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="testing push" />
     <MESSAGE value="changes in index.html, main.css, deleted directory js, new photo added project-photo.img" />
     <MESSAGE value="new directory doucovani" />
     <MESSAGE value="added script" />
@@ -491,6 +497,7 @@
     <MESSAGE value="deleted responsive.css" />
     <MESSAGE value="first commit" />
     <MESSAGE value="new project (Projekt6) == ToDoList 1/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project (Projekt6) == ToDoList 1/2" />
+    <MESSAGE value="javascript added &gt;&gt; saving to memory" />
+    <option name="LAST_COMMIT_MESSAGE" value="javascript added &gt;&gt; saving to memory" />
   </component>
 </project>
