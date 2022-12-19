@@ -4,10 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>To-Do List</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js"></script>
+    <link rel="icon" href="./img/title-icon.svg">
 </head>
 
 
 <body>
+<div id="myDIV" class="header">
+    <h2>To-Do List</h2>
+    <div class="container">
+        <input type="text" id="myInput" placeholder="Task name...">
+        <span id="addBtn">Add task</span>
+    </div>
+</div>
+
+<ul id="myUL">
+    <li>Hit the gym</li>
+    <li class="checked">Pay bills</li>
+    <li>Meet George</li>
+    <li>Buy eggs</li>
+    <li>Read a book</li>
+    <li>Organize office</li>
+</ul>
+
+<div id="error">Error: Blank task!</div>
 
 </body>
 </html>
