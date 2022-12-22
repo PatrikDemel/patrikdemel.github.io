@@ -1,0 +1,24 @@
+#eventShowcase {
+    height: 80vh;
+    background-color: #DCD5EB;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.eventContainer {
+    padding: 5rem 0;
+}
+
+.heading-3 {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+#noneEvents {
+    text-align: center;
+    padding-top: 6rem;
+    font-size: 1.1rem;
+}
