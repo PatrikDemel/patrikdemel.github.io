@@ -1,55 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new directory (eshop)">
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/briza.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/cajovnik.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/chmel.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/earl-grey.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/eukalyptus.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/hermanek.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/kava.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/konopi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/kopriva.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/kozi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/lemongrass.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/levandule.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/mata.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/materidouska.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/muskat.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/nimba.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/nimbatic.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/pansky.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/rakytnik.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/rozmaryn.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/salvej.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/salvia.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/naturinka-sampony/santal.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/brezovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/cajovnikovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/chmelovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/eukalyptovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/hermankovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kavovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/konopny.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/koprivovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/lemongrass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/levandulovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/mata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/materidouska.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new products in eshop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/naturinka-sampony.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/naturinka-sampony.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,14 +143,7 @@
       <workItem from="1671749177909" duration="54000" />
       <workItem from="1671796135342" duration="3029000" />
       <workItem from="1672766884141" duration="10000" />
-      <workItem from="1672858444798" duration="3333000" />
-    </task>
-    <task id="LOCAL-00002" summary="edits in index.html and main.css">
-      <created>1667896300503</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667896300503</updated>
+      <workItem from="1672858444798" duration="3960000" />
     </task>
     <task id="LOCAL-00003" summary="changed icons in index.html">
       <created>1667942080355</created>
@@ -525,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672858498027</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="new products in eshop">
+      <created>1672861826342</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1672861826342</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added script" />
     <MESSAGE value="changes in index.html, added photos into directory img" />
     <MESSAGE value="changes in index.html" />
     <MESSAGE value="new project" />
@@ -569,6 +531,7 @@
     <MESSAGE value="javascript added &gt;&gt; saving to memory" />
     <MESSAGE value="final commit" />
     <MESSAGE value="new directory (eshop)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new directory (eshop)" />
+    <MESSAGE value="new products in eshop" />
+    <option name="LAST_COMMIT_MESSAGE" value="new products in eshop" />
   </component>
 </project>
