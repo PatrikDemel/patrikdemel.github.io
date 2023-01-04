@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new products in eshop">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="category full-filled">
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/balzamnavlasy.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/kremnaruce.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/samponnavlasy.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/sprchovygel.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/telovemleko.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/telovykrem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/balzam-vlasy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/krem-ruce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/sampon-vlasy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/sprchovy-gel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/telove-mleko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/telovy-krem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,14 +146,7 @@
       <workItem from="1671749177909" duration="54000" />
       <workItem from="1671796135342" duration="3029000" />
       <workItem from="1672766884141" duration="10000" />
-      <workItem from="1672858444798" duration="3960000" />
-    </task>
-    <task id="LOCAL-00003" summary="changed icons in index.html">
-      <created>1667942080355</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667942080355</updated>
+      <workItem from="1672858444798" duration="5105000" />
     </task>
     <task id="LOCAL-00004" summary="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg">
       <created>1668072787274</created>
@@ -488,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672861826342</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="category full-filled">
+      <created>1672862470070</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1672862470070</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changes in index.html, added photos into directory img" />
     <MESSAGE value="changes in index.html" />
     <MESSAGE value="new project" />
     <MESSAGE value="edits in contact.html" />
@@ -532,6 +534,7 @@
     <MESSAGE value="final commit" />
     <MESSAGE value="new directory (eshop)" />
     <MESSAGE value="new products in eshop" />
-    <option name="LAST_COMMIT_MESSAGE" value="new products in eshop" />
+    <MESSAGE value="category full-filled" />
+    <option name="LAST_COMMIT_MESSAGE" value="category full-filled" />
   </component>
 </project>
