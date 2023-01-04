@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="category full-filled">
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/bigleaf-zeleny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/exoticfantasy-zeleny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/exoticfruits-cerny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/gourmet-zeleny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/strawberrydream-cerny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/wildcherry-cerny.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/glycerinova-mydla/dinosauri.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/glycerinova-mydla/zabicky.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/big-leaf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/ceylon-tea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fantasy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fruits.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/strawberry-dream.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/caje/wild-cherry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/dinosauri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/zabicky.html" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="two new categories">
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/granatovejablko.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/kridla.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/kristus.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/labutijezero.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levandule.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levandulegranatovejablko.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levanduleruze.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/promuze.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/granatove-jablko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/kridla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/kristus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/labuti-jezero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-jablko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-ruze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/pro-muze.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/caje.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/caje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,14 +150,7 @@
       <workItem from="1671749177909" duration="54000" />
       <workItem from="1671796135342" duration="3029000" />
       <workItem from="1672766884141" duration="10000" />
-      <workItem from="1672858444798" duration="6843000" />
-    </task>
-    <task id="LOCAL-00005" summary="first push">
-      <created>1668114046798</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668114046798</updated>
+      <workItem from="1672858444798" duration="7632000" />
     </task>
     <task id="LOCAL-00006" summary="testing push">
       <created>1668114142259</created>
@@ -496,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672863619345</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="two new categories">
+      <created>1672865370169</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1672865370169</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +514,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changes in index.html" />
     <MESSAGE value="new project" />
     <MESSAGE value="edits in contact.html" />
     <MESSAGE value="changes in code" />
@@ -540,6 +538,7 @@
     <MESSAGE value="new directory (eshop)" />
     <MESSAGE value="new products in eshop" />
     <MESSAGE value="category full-filled" />
-    <option name="LAST_COMMIT_MESSAGE" value="category full-filled" />
+    <MESSAGE value="two new categories" />
+    <option name="LAST_COMMIT_MESSAGE" value="two new categories" />
   </component>
 </project>
