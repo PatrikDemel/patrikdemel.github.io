@@ -3,49 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <!-- Link Font Awesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700&display=swap"
+          rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
           integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
           crossorigin="anonymous" referrerpolicy="no-referrer"/>
-    <!-- Link Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;700&display=swap"
-          rel="stylesheet">
-    <!-- Link CS and JS -->
-    <link rel="stylesheet" href="cs/main.css">
-    <link rel="stylesheet" href="cs/events.css">
-    <script src="js/script.js"></script>
-    <!-- Link Icon -->
-    <link rel="icon" href="img/favicon.svg">
-    <!-- Link Title -->
-    <title>Žaneta Demelová | Akce</title>
+    <link rel="icon" href="./img/favicon.svg">
+    <link rel="stylesheet" href="./cs/style.css">
+    <title>Akce | Žaneta Demelová</title>
 </head>
 
 
 <body>
-<nav id="navbar">
-    <div id="logo">
-        <p>Žaneta Demelová</p>
+<nav class="navbar">
+    <div class="logo">
+        <p><a href="index.html">Žaneta Demelová</a></p>
     </div>
     <ul>
-        <li><a class="navbarItem" href="index.html">Produkty</a></li>
-        <li><a class="navbarItem" href="contact.html">Kontakt</a></li>
-        <li><a class="navbarItem" href="about.html">O mně</a></li>
-        <li><a  class="navbarItem" href="events.html">Akce</a></li>
-        <li><a href="cart.html"><i id="carticon" class="fa-solid fa-cart-shopping fa-xl"></i></a></li>
+        <li><a href="index.html">Úvod</a></li>
+        <li><a href="products.html">Produkty</a></li>
+        <li><a href="about.html">O mně</a></li>
+        <li><a href="contact.html">Kontakt</a></li>
+        <li><a href="events.html">Akce</a></li>
     </ul>
 </nav>
-<section id="eventShowcase">
-    <div class="eventContainer">
-        <h2 class="heading-2">Kde mě najdete</h2>
-        <p class="heading-3">Z důvodu počasí či nemoci se mohou akce měnit nebo zrušit a nelze je brát jako
-            samozřejmost.</p>
-        <p id="noneEvents">Zatím nejsou naplánované žádné akce.</p>
-    </div>
+<section class="events">
+    <h1 class="head-1">Kde mě najdete</h1>
+    <p class="par text-center">Z důvodu počasí či nemoci se mohou akce měnit nebo zrušit a nelze je brát jako samozřejmost.</p>
 </section>
-<footer>
-    <p>&copy; 2022 Žaneta Demelová</p>
-</footer>
 </body>
 </html>

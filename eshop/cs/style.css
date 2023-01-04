@@ -1,0 +1,244 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*------------- Utility Classes -----------------*/
+.head-1 {
+    font-size: 3.5rem;
+    background: linear-gradient(to right, hsl(239, 88%, 47%), hsl(27, 100%, 50%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.head-2 {
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.row {
+    display: flex;
+    margin: 0 5rem;
+    justify-content: space-around;
+}
+
+.col-2 {
+    width: 40%;
+}
+
+.col-3 {
+    width: 30%;
+}
+
+.col-4 {
+    width: 20%;
+}
+
+.col-4 img {
+    width: 100%;
+}
+
+.par {
+    font-size: 1.1rem;
+    font-weight: normal;
+}
+
+.item {
+    box-shadow: rgba(0, 0, 0, 0.13) 0 5px 15px;
+    transition: transform 0.5s;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.item:hover {
+    cursor: pointer;
+    transform: translateY(-15px);
+}
+
+.btn {
+    padding: 1rem 5rem;
+    background-color: #ffffff;
+    text-decoration: none;
+    margin-top: 2rem;
+    color: #000;
+    border: 2px solid #8b2faf;
+    transition: background-color 0.2s;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #8b2faf;;
+    color: #fff;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.blank {
+    box-shadow: none;
+    cursor: initial;
+}
+
+/*------------------ Navigation Bar ----------------*/
+.navbar {
+    display: flex;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 5rem;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #000;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    margin-right: 7rem;
+}
+
+.navbar ul li {
+    padding: 1.5rem;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.1rem;
+    transition: border-bottom-width 0.2s;
+}
+
+.navbar ul li a:hover {
+    border-bottom: 4px solid #8b2faf;;
+}
+
+/*------------------ Main ---------------*/
+.header p {
+    margin: 0 5rem;
+}
+
+/*---------------- About ---------------*/
+.about {
+    margin: 0 7rem;
+}
+
+/*-------------- Contact ------------*/
+#info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15rem;
+}
+
+.showcase h2 {
+    margin-bottom: 20px;
+}
+
+.showcase label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.showcase input {
+    display: block;
+    margin-bottom: 1rem;
+    width: 80%;
+    height: 2.3rem;
+    padding-left: 10px;
+}
+
+.showcase textarea {
+    width: 80%;
+    height: 10rem;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.showcase .col-2 .fa-phone {
+    display: inline;
+}
+
+.showcase p {
+    display: inline;
+}
+
+/*----------------- Events ------------------*/
+.events .head-1 {
+    margin-bottom: 0.5rem;
+}
+
+/*------------------- Categories  -------------------*/
+.category-title {
+    font-weight: normal;
+    text-align: center;
+    margin: 2rem;
+}
+
+/*-------------------- Category ---------------------*/
+.product-title {
+    font-weight: 500;
+}
+
+.product-prize {
+    text-align: center;
+    font-weight: normal;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+/*------------ Product Detail -------------------*/
+.product-detail-head-1 {
+    font-size: 2rem;
+    color: #8b2faf;
+    margin-bottom: 1rem;
+    margin-top: 5rem;
+}
+
+.product-detail-head-2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.col-2 .product-detail-par {
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+.product .row img {
+    width: 80%;
+}
+
+.product .col-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-detail-prize {
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+.product-btn {
+    width: 30%;
+    padding: 1rem 0;
+    text-align: center;
+}
