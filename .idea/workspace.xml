@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="category full-filled">
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/balzamnavlasy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/kremnaruce.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/samponnavlasy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/sprchovygel.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/telovemleko.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vellie/telovykrem.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/balzam-vlasy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/krem-ruce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/sampon-vlasy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/sprchovy-gel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/telove-mleko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vellie/telovy-krem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/bigleaf-zeleny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/exoticfantasy-zeleny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/exoticfruits-cerny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/gourmet-zeleny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/strawberrydream-cerny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/caje/wildcherry-cerny.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/glycerinova-mydla/dinosauri.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/glycerinova-mydla/zabicky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/big-leaf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/ceylon-tea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fantasy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fruits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/strawberry-dream.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/caje/wild-cherry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/dinosauri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/zabicky.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/caje/caje.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/caje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,14 +151,7 @@
       <workItem from="1671749177909" duration="54000" />
       <workItem from="1671796135342" duration="3029000" />
       <workItem from="1672766884141" duration="10000" />
-      <workItem from="1672858444798" duration="5105000" />
-    </task>
-    <task id="LOCAL-00004" summary="changes in index.html, main.css, added title-image.svg and deleted title-logo.svg">
-      <created>1668072787274</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1668072787274</updated>
+      <workItem from="1672858444798" duration="6843000" />
     </task>
     <task id="LOCAL-00005" summary="first push">
       <created>1668114046798</created>
@@ -491,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672862470070</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="category full-filled">
+      <created>1672863619345</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1672863619345</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
