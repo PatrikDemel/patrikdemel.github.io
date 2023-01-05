@@ -278,6 +278,28 @@ nav {
     text-align: center;
 }
 
+/*--------------------------- Footer --------------------------*/
+footer {
+    background-color: #eeeeee;
+    margin-top: 2rem;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 3rem;
+    align-items: center;
+}
+
+.footer-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-row p,
+.footer-row a {
+    color: grey;
+}
 
 /*------------------------------ Responsive -----------------------------*/
 @media screen and (max-width: 768px) {
