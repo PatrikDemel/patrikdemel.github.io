@@ -2,24 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="two new categories">
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/granatovejablko.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/kridla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/kristus.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/labutijezero.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levandule.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levandulegranatovejablko.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/levanduleruze.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/img/products/vonitka/promuze.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/granatove-jablko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/kridla.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/kristus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/labuti-jezero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-jablko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-ruze.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop/products/vonitka/pro-muze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/amazonskekvety.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/amorino.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/andelevraji.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/andelskakridla.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/burgundskevino.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/ceskevanoce.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/cojestaretojehezke.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/domovbezobjeti.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/drientexpress.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/eucalyptusbavlna.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/gentleman.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/granatovejablko.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/hezkesvatkymazlicci.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/kanadskabrusinka.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/krasnemydloprostastnourodinu.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/ladyviolet.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/lemons.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/levandulekosik.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/levandulesruzi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/levaulesruzi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/mameradikoniky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/motel.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/naisonriffard.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/nejlepsimaminkanasvete.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/oliva.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/prekrasnevanocnisvatky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/prostesti.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/purpurovaruze.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/serikromanticky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/severskazima.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/skritci.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/vanocnikvetinovytrh.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/veseleruzicky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/veselevanoce.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/vetvicky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/zen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/img/products/prirodni-mydla/zlatasecese.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amazonske-kvety.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amorino.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andele-raj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andelska-kridla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/burgundske-hrozno.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/ceske-vanoce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/domov-objeti.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/drient-express.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/eucalyptus-bavlna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/gentleman.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/granatove-jablko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/hezke-svatky-mazlicci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/kanadska-brusinka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/krasne-mydlo-rodina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lady-violet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lemons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-kosik.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-ruze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/mame-radi-koniky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/maminka-na-svete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/motel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/naison-riffard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/oliva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prekrasne-svatky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/pro-stesti.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/purpurova-ruze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/serik-romanticky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/severska-zima.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/skritci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/stare-hezke.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vanocni-kvetinovy-trh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-ruzicky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-vanoce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vetvicky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zlata-secese.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prirodni-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prirodni-mydla.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +93,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -49,19 +113,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io/eshop",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\eshop" />
@@ -150,14 +214,10 @@
       <workItem from="1671749177909" duration="54000" />
       <workItem from="1671796135342" duration="3029000" />
       <workItem from="1672766884141" duration="10000" />
-      <workItem from="1672858444798" duration="7632000" />
-    </task>
-    <task id="LOCAL-00006" summary="testing push">
-      <created>1668114142259</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1668114142259</updated>
+      <workItem from="1672858444798" duration="7677000" />
+      <workItem from="1672905173578" duration="105000" />
+      <workItem from="1672905445604" duration="36000" />
+      <workItem from="1672928167436" duration="11563000" />
     </task>
     <task id="LOCAL-00007" summary="changes in index.html, main.css, deleted directory js, new photo added project-photo.img">
       <created>1668114197255</created>
@@ -495,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672865370169</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="two new categories">
+      <created>1672866176473</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1672866176473</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

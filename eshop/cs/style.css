@@ -89,12 +89,28 @@
 }
 
 /*------------------ Navigation Bar ----------------*/
+nav {
+    display: flex;
+    align-items: center;
+    margin-right: 7rem;
+}
+
+#cart {
+    color: #000;
+    transition: color 0.2s;
+}
+
+#cart:hover {
+    color: #8b2faf;
+}
+
 .navbar {
     display: flex;
     top: 0;
     width: 100%;
-    justify-content: space-between;
     align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .logo {
@@ -111,7 +127,6 @@
 .navbar ul {
     list-style: none;
     display: flex;
-    margin-right: 7rem;
 }
 
 .navbar ul li {
@@ -179,6 +194,17 @@
     display: inline;
 }
 
+i {
+    font-size: 1.5rem;
+    color: #8b2faf;
+    padding: 0 1rem;
+}
+
+.info-item {
+    display: flex;
+    justify-items: center;
+}
+
 /*----------------- Events ------------------*/
 .events .head-1 {
     margin-bottom: 0.5rem;
@@ -241,4 +267,41 @@
     width: 30%;
     padding: 1rem 0;
     text-align: center;
+}
+
+
+/*------------------------------ Responsive -----------------------------*/
+@media screen and (max-width: 768px) {
+    .navbar {
+        display: none;
+    }
+
+    .head-1 {
+        font-size: 2.5rem;
+    }
+
+    .header p {
+        margin: 0 1rem;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: column;
+        margin: 0 2rem;
+    }
+
+    .col-2,
+    .col-4 {
+        width: 100%;
+    }
+
+    .product-detail-head-1 {
+        font-size: 2rem;
+        padding: 1rem 0;
+    }
+
+    .product-btn {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
 }
