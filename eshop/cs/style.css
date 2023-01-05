@@ -92,12 +92,21 @@
 nav {
     display: flex;
     align-items: center;
-    margin-right: 7rem;
+    width: 70%;
+    justify-content: flex-end;
 }
 
+#bars,
 #cart {
     color: #000;
+    font-size: 1.5rem;
     transition: color 0.2s;
+    padding: 1rem;
+}
+
+#bars:hover {
+    color: #8b2faf;
+    cursor: pointer;
 }
 
 #cart:hover {
@@ -107,16 +116,16 @@ nav {
 .navbar {
     display: flex;
     top: 0;
-    width: 100%;
     align-items: center;
     flex-direction: row;
-    justify-content: space-between;
+    width: 100vw;
 }
 
 .logo {
     margin-left: 5rem;
     padding: 1.5rem;
     font-size: 1.2rem;
+    width: 20vw;
 }
 
 .logo a {
@@ -194,7 +203,7 @@ nav {
     display: inline;
 }
 
-i {
+.colored-icon {
     font-size: 1.5rem;
     color: #8b2faf;
     padding: 0 1rem;
@@ -272,7 +281,8 @@ i {
 
 /*------------------------------ Responsive -----------------------------*/
 @media screen and (max-width: 768px) {
-    .navbar {
+
+    .navbar ul {
         display: none;
     }
 
@@ -290,7 +300,41 @@ i {
         margin: 0 2rem;
     }
 
-    .col-2,
+.showcase .col-2 {
+    width: 100%;
+}
+
+.showcase .head-2 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+    #info {
+        padding: 0;
+        margin-bottom: 3rem;
+    }
+
+    #info .info-item {
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    #info .info-item p {
+        font-size: 0.9rem;
+    }
+
+    #form label {
+        font-size: 0.9rem;
+    }
+
+    #form input,
+    #form textarea,
+    #form .btn {
+        width: 100%;
+    }
+
     .col-4 {
         width: 100%;
     }
