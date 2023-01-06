@@ -388,6 +388,8 @@ footer {
     #info .info-item {
         padding: 0;
         width: 100%;
+        justify-content: center;
+        text-align: center;
     }
 
     .events p {
@@ -395,7 +397,7 @@ footer {
     }
 
     #info .info-item p {
-        font-size: 0.9rem;
+        font-size: 1rem;
     }
 
     #form label {
