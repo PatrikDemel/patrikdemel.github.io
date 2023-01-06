@@ -305,6 +305,9 @@ footer {
 
 /*------------------------------ Responsive -----------------------------*/
 @media screen and (max-width: 768px) {
+    .categories .head-1 {
+        font-size: 1.8rem;
+    }
     #bars {
         display: block;
         font-size: 1.5rem;
@@ -422,5 +425,13 @@ footer {
     .product-btn {
         width: 100%;
         margin-bottom: 1rem;
+    }
+
+    .product .col-2 {
+        width: 100%;
+    }
+
+    .product-detail-head-1 {
+        text-align: center;
     }
 }
