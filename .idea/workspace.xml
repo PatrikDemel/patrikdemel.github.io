@@ -3,136 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="full responsive design for phones">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/GDPR.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/GDPR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cookies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/doprava-platba.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/doprava-platba.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/obchodni-podminky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/obchodni-podminky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/big-leaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/big-leaf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/caje.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/caje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/ceylon-tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/ceylon-tea.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/exotic-fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fantasy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/exotic-fruits.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/exotic-fruits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/strawberry-dream.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/strawberry-dream.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/caje/wild-cherry.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/caje/wild-cherry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/dinosauri.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/dinosauri.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/glycerinova-mydla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/zabicky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/glycerinova-mydla/zabicky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/eukalyptus.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/eukalyptus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hermanek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hermanek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hrebicek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hrebicek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/jalovec.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/jalovec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/karite.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/karite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/konopi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/konopi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/kozi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/kozi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/lemongrass.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/lemongrass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/levandule.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/levandule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mata.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/materidouska.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/materidouska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/medunka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/medunka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mesicek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mesicek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/muskatove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/muskatove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/naturinka-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/naturinka-mydla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbatic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/oliva.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/oliva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/panske.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/panske.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/propolis.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/propolis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rakytnik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rakytnik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rozmaryn.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rozmaryn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvejove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvejove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvia.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/santal.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/santal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/brezovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/brezovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/cajovnikovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/cajovnikovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/chmelovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/chmelovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/earl-grey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/eukalyptovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/eukalyptovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/hermankovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/hermankovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kavovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kavovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/konopny.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/konopny.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/koprivovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/koprivovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kozi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/lemongrass.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/lemongrass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/levandulovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/levandulovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/mata.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/mata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/materidouska.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/materidouska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/muskatovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/naturinka-sampony.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/naturinka-sampony.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbatic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/nimbovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/pansky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rakytnikovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/rozmarynovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvejovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvia.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/salvia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/santalovy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amazonske-kvety.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amazonske-kvety.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amorino.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/amorino.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andele-raj.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andele-raj.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andelska-kridla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/andelska-kridla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/burgundske-hrozno.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/burgundske-hrozno.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/ceske-vanoce.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/ceske-vanoce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/domov-objeti.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/domov-objeti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/drient-express.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/drient-express.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/eucalyptus-bavlna.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/eucalyptus-bavlna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/gentleman.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/gentleman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/granatove-jablko.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/granatove-jablko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/hezke-svatky-mazlicci.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/hezke-svatky-mazlicci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/kanadska-brusinka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/kanadska-brusinka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/krasne-mydlo-rodina.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/krasne-mydlo-rodina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lady-violet.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lady-violet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lemons.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/lemons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-kosik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-kosik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-ruze.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/levandule-ruze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/mame-radi-koniky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/mame-radi-koniky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/maminka-na-svete.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/maminka-na-svete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/motel.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/motel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/naison-riffard.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/naison-riffard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/oliva.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/oliva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prekrasne-svatky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prekrasne-svatky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prirodni-mydla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/prirodni-mydla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/pro-stesti.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/pro-stesti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/purpurova-ruze.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/purpurova-ruze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/serik-romanticky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/serik-romanticky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/severska-zima.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/severska-zima.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/skritci.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/skritci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/stare-hezke.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/stare-hezke.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vanocni-kvetinovy-trh.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vanocni-kvetinovy-trh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-ruzicky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-ruzicky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-vanoce.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vesele-vanoce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vetvicky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/vetvicky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zen.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zlata-secese.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/prirodni-mydla/zlata-secese.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/balzam-vlasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/balzam-vlasy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/krem-ruce.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/krem-ruce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/sampon-vlasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/sampon-vlasy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/sprchovy-gel.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/sprchovy-gel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/telove-mleko.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/telove-mleko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/telovy-krem.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/telovy-krem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vellie/vellie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/granatove-jablko.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/granatove-jablko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/kridla.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/kridla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/kristus.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/kristus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/labuti-jezero.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/labuti-jezero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/levandule-jablko.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-jablko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/levandule-ruze.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule-ruze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/levandule.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/levandule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/pro-muze.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/pro-muze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/vonitka/vonitka.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,14 +138,7 @@
       <workItem from="1672905173578" duration="105000" />
       <workItem from="1672905445604" duration="36000" />
       <workItem from="1672928167436" duration="14996000" />
-      <workItem from="1673018962022" duration="10972000" />
-    </task>
-    <task id="LOCAL-00015" summary="edits in contact.html">
-      <created>1668653347758</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1668653347758</updated>
+      <workItem from="1673018962022" duration="11513000" />
     </task>
     <task id="LOCAL-00016" summary="edits in contact.html">
       <created>1668653409532</created>
@@ -612,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673027940115</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="full responsive design for phones">
+      <created>1673030062966</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1673030062966</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    width: 100vw;
+}
+
 /*------------- Utility Classes -----------------*/
 .head-1 {
     font-size: 3.5rem;
@@ -26,6 +30,7 @@
     display: flex;
     margin: 0 5rem;
     justify-content: space-around;
+    padding-bottom: 10rem;
 }
 
 .col-2 {
@@ -160,9 +165,17 @@
     margin: 0 5rem;
 }
 
+.header {
+    height: 55vh;
+}
+
 /*---------------- About ---------------*/
 .about {
     margin: 0 7rem;
+}
+
+.about {
+    height: 55vh;
 }
 
 /*-------------- Contact ------------*/
@@ -170,6 +183,10 @@
     display: flex;
     flex-direction: column;
     align-items: flex-end;
+}
+
+.showcase {
+    height: 60vh;
 }
 
 .showcase h2 {
@@ -219,6 +236,10 @@
 /*----------------- Events ------------------*/
 .events .head-1 {
     margin-bottom: 0.5rem;
+}
+
+.events {
+    height: 55vh;
 }
 
 /*------------------- Categories  -------------------*/
@@ -283,7 +304,7 @@
 /*--------------------------- Footer --------------------------*/
 footer {
     background-color: #eeeeee;
-    margin-top: 2rem;
+    margin-top: 5rem;
 }
 
 .footer-container {
