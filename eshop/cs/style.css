@@ -238,6 +238,10 @@
 }
 
 /*------------------- Categories  -------------------*/
+.categories .row {
+    align-items: normal;
+}
+
 .category-title {
     font-weight: normal;
     text-align: center;
@@ -247,6 +251,7 @@
 /*-------------------- Category ---------------------*/
 .product-title {
     font-weight: 500;
+    padding: 2rem 1rem;
 }
 
 .product-prize {
@@ -257,9 +262,11 @@
 }
 
 /*------------ Product Detail -------------------*/
-.product .row{
-    margin-bottom: 10rem;
+.product .row {
+    margin-bottom: 15rem;
+    align-items: center;
 }
+
 .product-detail-head-1 {
     font-size: 2rem;
     color: #8b2faf;
@@ -320,6 +327,68 @@ footer {
 .footer-row p,
 .footer-row a {
     color: grey;
+}
+
+/*---------------------- Cookies --------------------*/
+.cookies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cookies-box {
+    width: 40%;
+    margin: 2rem 0;
+}
+
+#cookies-box-1 p {
+    padding: 1rem 0;
+}
+
+#cookies-box-2 p {
+    padding: 0.5rem 0;
+}
+
+#cookies-box-2 a {
+    color: grey;
+}
+
+/*------------------ Doprava a platba ------------*/
+.doprava {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.doprava h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.doprava-box {
+    width: 40%;
+    margin: 3rem 0;
+}
+
+.doprava-box p {
+    padding: 1rem 0;
+}
+
+#platba ul {
+    list-style: none;
+}
+
+#platba ul li {
+    padding: 0.5rem 0;
+}
+
+/*------------------ GDPR a obchodní podmínky -------------------------*/
+.obchodni-podminky,
+.GDPR {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 65vh;
 }
 
 /*------------------------------ Responsive -----------------------------*/
@@ -482,5 +551,23 @@ footer {
 
     .footer-row {
         padding: 1rem 0;
+    }
+
+    /*----------- Cookies a Doprava -------*/
+    #cookies-box-1 {
+        margin-top: 0;
+    }
+
+    .doprava-box {
+        width: 70%;
+        margin-top: 0;
+    }
+
+    .doprava-box h2 {
+        margin-bottom: 0;
+    }
+
+    .cookies-box {
+        width: 70%;
     }
 }
