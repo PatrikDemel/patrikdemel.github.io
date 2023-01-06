@@ -147,7 +147,7 @@
 .navbar ul li a {
     text-decoration: none;
     color: #000;
-    font-size: 1.1rem;
+    font-size: 1rem;
     transition: border-bottom-width 0.2s;
 }
 
@@ -169,7 +169,7 @@
 #info {
     display: flex;
     flex-direction: column;
-    padding-left: 15rem;
+    align-items: flex-end;
 }
 
 .showcase h2 {
@@ -305,28 +305,29 @@ footer {
 
 /*------------------------------ Responsive -----------------------------*/
 @media screen and (max-width: 768px) {
-    .categories .head-1 {
-        font-size: 1.8rem;
-    }
-    #bars {
-        display: block;
-        font-size: 1.5rem;
-        padding: 3rem 2rem;
-        margin: 0;
-    }
-
-    .about {
-        margin: 0 1.3rem;
-    }
-    .mobile-navbar {
-        display: none;
-        flex-direction: column;
-    }
-
-    .showcase .head-2 {
+    /*------------- Utility Classes ---------*/
+    .head-1 {
+        font-size: 2rem;
         margin-top: 2rem;
     }
 
+    .header p {
+        margin: 0 1.3rem;
+        text-align: justify;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: column;
+        margin: 0 2rem;
+    }
+
+
+    .col-4 {
+        width: 100%;
+    }
+
+    /*---------- Navbar -------------*/
     .navbar {
         display: flex;
         justify-content: space-between;
@@ -337,6 +338,11 @@ footer {
         margin: 0;
         padding: 1rem 0 1rem 2rem;
         width: 60%;
+    }
+
+    .mobile-navbar {
+        display: none;
+        flex-direction: column;
     }
 
     .main-list {
@@ -358,20 +364,26 @@ footer {
         display: none;
     }
 
-    .head-1 {
-        font-size: 2rem;
-        margin-top: 2rem;
+    #bars {
+        display: block;
+        font-size: 1.5rem;
+        padding: 3rem 2rem;
+        margin: 0;
     }
 
-    .header p {
+    /*----------- Products -----------*/
+    .categories .head-1 {
+        font-size: 1.8rem;
+    }
+
+    /*------------ About -------------*/
+    .about {
         margin: 0 1.3rem;
-        text-align: justify;
     }
 
-    .row {
-        display: flex;
-        flex-direction: column;
-        margin: 0 2rem;
+    /*---------- Contact ---------*/
+    .showcase .head-2 {
+        margin-top: 2rem;
     }
 
     .showcase .col-2 {
@@ -395,10 +407,6 @@ footer {
         text-align: center;
     }
 
-    .events p {
-        font-size: 1rem;
-    }
-
     #info .info-item p {
         font-size: 1rem;
     }
@@ -413,10 +421,12 @@ footer {
         width: 100%;
     }
 
-    .col-4 {
-        width: 100%;
+    /*---------- Events ----------*/
+    .events p {
+        font-size: 1rem;
     }
 
+    /*----------- Product Detail ---------*/
     .product-detail-head-1 {
         font-size: 2rem;
         padding: 1rem 0;
