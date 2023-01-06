@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="responsive for phones (except navbar)">
+      <change afterPath="$PROJECT_DIR$/eshop/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/GDPR.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/GDPR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cookies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/doprava-platba.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/doprava-platba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/obchodni-podminky.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/obchodni-podminky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -138,14 +148,8 @@
       <workItem from="1672858444798" duration="7677000" />
       <workItem from="1672905173578" duration="105000" />
       <workItem from="1672905445604" duration="36000" />
-      <workItem from="1672928167436" duration="14951000" />
-    </task>
-    <task id="LOCAL-00009" summary="added script">
-      <created>1668496339651</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1668496339651</updated>
+      <workItem from="1672928167436" duration="14996000" />
+      <workItem from="1673018962022" duration="3170000" />
     </task>
     <task id="LOCAL-00010" summary="added script">
       <created>1668501440590</created>
@@ -483,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672942788711</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="responsive for phones (except navbar)">
+      <created>1672943295486</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1672943295486</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -89,24 +89,26 @@
 }
 
 /*------------------ Navigation Bar ----------------*/
-nav {
+.main-list {
     display: flex;
     align-items: center;
     width: 70%;
     justify-content: flex-end;
 }
 
-#bars,
+.mobile-navbar {
+    display: none;
+}
+
+#bars {
+    display: none;
+}
+
 #cart {
     color: #000;
     font-size: 1.5rem;
     transition: color 0.2s;
     padding: 1rem;
-}
-
-#bars:hover {
-    color: #8b2faf;
-    cursor: pointer;
 }
 
 #cart:hover {
@@ -303,6 +305,44 @@ footer {
 
 /*------------------------------ Responsive -----------------------------*/
 @media screen and (max-width: 768px) {
+    #bars {
+        display: block;
+        font-size: 1.5rem;
+        padding: 2rem;
+        margin: 0;
+    }
+
+    .mobile-navbar {
+        display: none;
+        flex-direction: column;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .navbar .logo {
+        margin: 0;
+        padding: 1rem 0 1rem 2rem;
+        width: 60%;
+    }
+
+    .main-list {
+        width: 60%;
+    }
+
+    .mobile-navbar ul li {
+        display: block;
+        background-color: #8b2faf;
+        padding: 1rem;
+    }
+
+    .mobile-navbar ul li a {
+        text-decoration: none;
+        color: #fff;
+    }
 
     .navbar ul {
         display: none;
@@ -322,14 +362,14 @@ footer {
         margin: 0 2rem;
     }
 
-.showcase .col-2 {
-    width: 100%;
-}
+    .showcase .col-2 {
+        width: 100%;
+    }
 
-.showcase .head-2 {
-    font-size: 1.5rem;
-    text-align: center;
-}
+    .showcase .head-2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
 
     #info {
         padding: 0;
