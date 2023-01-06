@@ -376,6 +376,10 @@ footer {
         font-size: 1.8rem;
     }
 
+    .product-title {
+        padding: 1rem;
+    }
+
     /*------------ About -------------*/
     .about {
         margin: 0 1.3rem;
@@ -398,6 +402,7 @@ footer {
     #info {
         padding: 0;
         margin-bottom: 3rem;
+        align-items: center;
     }
 
     #info .info-item {
@@ -443,5 +448,20 @@ footer {
 
     .product-detail-head-1 {
         text-align: center;
+    }
+
+    /*-------------- Footer -------------*/
+    .footer-container {
+        flex-direction: column;
+        padding: 2rem;
+        align-items: normal;
+    }
+
+    .footer-container p {
+        padding: 0;
+    }
+
+    .footer-row {
+        padding: 1rem 0;
     }
 }
