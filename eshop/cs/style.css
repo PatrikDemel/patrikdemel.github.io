@@ -5,10 +5,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body {
-    width: 100vw;
-}
-
 /*------------- Utility Classes -----------------*/
 .head-1 {
     font-size: 3.5rem;
@@ -30,7 +26,6 @@ body {
     display: flex;
     margin: 0 5rem;
     justify-content: space-around;
-    padding-bottom: 10rem;
 }
 
 .col-2 {
@@ -262,6 +257,9 @@ body {
 }
 
 /*------------ Product Detail -------------------*/
+.product .row{
+    margin-bottom: 10rem;
+}
 .product-detail-head-1 {
     font-size: 2rem;
     color: #8b2faf;
