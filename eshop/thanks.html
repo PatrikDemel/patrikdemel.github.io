@@ -1,4 +1,5 @@
-<html lang="cs" xmlns="http://www.w3.org/1999/html">
+<!DOCTYPE html>
+<html lang="cs">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -14,7 +15,7 @@
     <link rel="icon" href="./img/favicon.svg">
     <link rel="stylesheet" href="./cs/style.css">
     <script src="./js/script.js"></script>
-    <title>Kontakt | Žaneta Demelová</title>
+    <title>Úvod | Žaneta Demelová</title>
 </head>
 
 <body>
@@ -44,39 +45,9 @@
         <li><a href="events.html">Akce</a></li>
     </ul>
 </div>
-<section class="showcase">
-    <h1 class="head-1">Kontakt</h1>
-    <div class="row">
-        <div class="col-2" id="info">
-            <h2 class="head-2">Kontaktní informace</h2>
-            <div class="info-item">
-                <i class="fa-solid fa-phone colored-icon"></i>
-                <p>+420-777-700-769</p>
-            </div>
-            <br>
-            <div class="info-item">
-                <i class="fa-solid fa-envelope colored-icon"></i>
-                <p>zaneta.demelova@seznam.cz</p>
-            </div>
-        </div>
-        <div class="col-2" id="form">
-            <h2 class="head-2">Kontaktní formulář</h2>
-            <form action="https://formsubmit.co/patrikdemel@icloud.com" method="POST" id="contact-form">
-                <label for="fullname">Jméno a příjmení</label>
-                <input type="text" id="fullname" name="name" required>
-                <label for="email">E-mail</label>
-                <input type="email" id="email" name="email" required>
-                <label for="message">Zpráva</label>
-                <textarea name="content" id="message" required></textarea>
-                <input type="hidden" name="_subject" value="New submission">
-                <input type="hidden" name="_template" value="box">
-                <input type="hidden" name="_next" value="https://patrikdemel.github.io/eshop/thanks.htmll">
-                <input type="hidden" name="_captcha" value="false">
-                <button type="submit" class="btn" id="contactbutton">Odeslat</button>
-            </form>
-            <div id="submitted">Formulář byl odeslán.</div>
-        </div>
-    </div>
+<section class="header">
+    <h1 class="head-1">Děkujeme!</h1>
+    <p class="par text-center">Váš formulář byl úspěšně odeslán. Ozveme se Vám ihned, jak to bude možné.</p>
 </section>
 <footer>
     <div class="footer-container">
@@ -94,8 +65,5 @@
         </div>
     </div>
 </footer>
-<script>
-
-</script>
 </body>
 </html>

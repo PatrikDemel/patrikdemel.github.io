@@ -21,4 +21,12 @@ document.addEventListener("DOMContentLoaded", () => {
     selectList.addEventListener("change", () => {
         prize.innerText = selectList.value;
     })
+
+
+    let contactForm = document.getElementById("contact-form");
+    let submittedText = document.getElementById("submitted");
+
+    contactForm.onsubmit = function(){
+        submittedText.style.display = "block";
+    }
 })

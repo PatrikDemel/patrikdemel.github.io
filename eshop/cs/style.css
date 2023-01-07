@@ -180,6 +180,11 @@
     align-items: flex-end;
 }
 
+#submitted {
+    margin: 1rem 0;
+    display: none;
+}
+
 .showcase {
     height: 60vh;
 }

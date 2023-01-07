@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="grams and amount inputs beta added">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="added prize change changed by value of select option">
+      <change afterPath="$PROJECT_DIR$/eshop/thanks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/eukalyptus.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/eukalyptus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hermanek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hermanek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hrebicek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/hrebicek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/jalovec.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/jalovec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/karite.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/karite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/konopi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/konopi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/kozi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/kozi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/lemongrass.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/lemongrass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/levandule.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/levandule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mata.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/materidouska.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/materidouska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/medunka.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/medunka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mesicek.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/mesicek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/muskatove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/muskatove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbatic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/nimbove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/oliva.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/oliva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/panske.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/panske.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/propolis.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/propolis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rakytnik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rakytnik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rozmaryn.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/rozmaryn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvejove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvejove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvia.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/salvia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/santal.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/santal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -172,14 +143,7 @@
       <workItem from="1672928167436" duration="14996000" />
       <workItem from="1673018962022" duration="16113000" />
       <workItem from="1673035339091" duration="61000" />
-      <workItem from="1673104209069" duration="6067000" />
-    </task>
-    <task id="LOCAL-00020" summary="directory deleted">
-      <created>1668728490394</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1668728490394</updated>
+      <workItem from="1673104209069" duration="11914000" />
     </task>
     <task id="LOCAL-00021" summary="responsivity">
       <created>1669106382128</created>
@@ -517,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673107563314</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="added prize change changed by value of select option">
+      <created>1673110368713</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1673110368713</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added hamburger menu in index.html" />
     <MESSAGE value="hamburger menu changes" />
     <MESSAGE value="changed file responsive.css to mobile.css" />
     <MESSAGE value="new project - google search" />
@@ -561,6 +531,7 @@
     <MESSAGE value="full responsive design for phones" />
     <MESSAGE value="full responsive design" />
     <MESSAGE value="grams and amount inputs beta added" />
-    <option name="LAST_COMMIT_MESSAGE" value="grams and amount inputs beta added" />
+    <MESSAGE value="added prize change changed by value of select option" />
+    <option name="LAST_COMMIT_MESSAGE" value="added prize change changed by value of select option" />
   </component>
 </project>
