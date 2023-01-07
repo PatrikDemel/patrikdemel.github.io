@@ -1,3 +1,4 @@
+// ----------------------  Navbar for phones ---------------------------
 document.addEventListener("DOMContentLoaded", () => {
     let menuIcon = document.querySelector("#bars");
     let mobileMenu = document.querySelector(".mobile-navbar");
@@ -14,19 +15,4 @@ document.addEventListener("DOMContentLoaded", () => {
             menuIcon.style.color = "#000";
         }
     };
-
-    let selectList = document.getElementById("grams");
-    let prize = document.getElementById("prize");
-
-    selectList.addEventListener("change", () => {
-        prize.innerText = selectList.value;
-    })
-
-
-    let contactForm = document.getElementById("contact-form");
-    let submittedText = document.getElementById("submitted");
-
-    contactForm.onsubmit = function(){
-        submittedText.style.display = "block";
-    }
 })
