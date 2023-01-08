@@ -345,11 +345,13 @@
     margin: 2rem 0;
     display: flex;
     flex-direction: column;
-   align-items: center;
+    align-items: center;
 }
+
 .cart-table {
     width: 50%;
 }
+
 .cart-table th {
     text-align: left;
     padding: 1.5rem 1rem;
@@ -669,5 +671,21 @@ footer {
 
     .cookies-box {
         width: 70%;
+    }
+
+    /*------------- Cart --------------*/
+    .cart-table {
+        width: 30%
+    }
+    .cart-container {
+        width: 90%;
+    }
+
+    .cart-container p {
+        font-size: 1rem;
+    }
+
+    .payment-container {
+        width: 90%;
     }
 }
