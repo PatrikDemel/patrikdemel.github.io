@@ -46,20 +46,47 @@
         <li><a href="events.html">Akce</a></li>
     </ul>
 </div>
-<section class="header">
+<section class="cart">
     <h1 class="head-1">Košík</h1>
-    <table>
-        <thead>
-        <tr>
-            <th>Název</th>
-            <th>Množství</th>
-            <th>Cena</th>
-        </tr>
-        </thead>
-        <tbody id="tbody">
-
-        </tbody>
-    </table>
+    <div id="no-item-alert">
+        <p>Váš košík je prázdný.</p>
+        <a class="btn" href="./products.html">Pokračovat v nákupu</a>
+    </div>
+    <div id="item-section">
+        <table class="cart-table">
+            <thead>
+            <tr>
+                <th>Název produktu</th>
+                <th>Množství (ks)</th>
+                <th>Gramáž (g /ml)</th>
+                <th>Cena</th>
+                <th style="width: 7rem">
+                    <br>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Bambi mýdlo</td>
+                <td>1</td>
+                <td>110</td>
+                <td>135</td>
+            </tr>
+            <tr>
+                <td>Konopné mýdlo</td>
+                <td>10</td>
+                <td>210</td>
+                <td>195</td>
+            </tr>
+            </tbody>
+        </table>
+        <div class="cart-container">
+            <p>Celkem: 3000,00 Kč</p>
+        </div>
+        <div class="payment-container">
+            <button class="btn">Přejít k platbě</button>
+        </div>
+    </div>
 </section>
 <footer>
     <div class="footer-container">

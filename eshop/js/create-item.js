@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     let button = document.querySelector("button");
-
+    
     button.onclick = function () {
         let productID = button.dataset.id;
         let productPrize = button.dataset.price;

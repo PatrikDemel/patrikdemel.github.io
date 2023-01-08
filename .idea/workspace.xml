@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="added personal productID for local storage save">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/js/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/js/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/js/create-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/js/create-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/js/mydlaCena.js" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/js/mydlaCena.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bambi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/bile-karite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/cajovnik.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/dub.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/earl-gray.html" afterDir="false" />
@@ -38,6 +38,7 @@
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/solne.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vanilkove.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-mydla/vlockomedove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kavovy.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/products/naturinka-sampony/kavovy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,14 +176,7 @@
       <workItem from="1673018962022" duration="16113000" />
       <workItem from="1673035339091" duration="61000" />
       <workItem from="1673104209069" duration="26502000" />
-      <workItem from="1673185032736" duration="5431000" />
-    </task>
-    <task id="LOCAL-00025" summary="responsivity">
-      <created>1669135634659</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1669135634659</updated>
+      <workItem from="1673185032736" duration="11307000" />
     </task>
     <task id="LOCAL-00026" summary="edited index.html, mobile.css - hamburger menu">
       <created>1669281343424</created>
@@ -520,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673132445757</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="added personal productID for local storage save">
+      <created>1673190649558</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1673190649558</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
