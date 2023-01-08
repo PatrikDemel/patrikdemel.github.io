@@ -73,6 +73,14 @@
     transition: background-color 0.2s;
 }
 
+#button110 {
+    display: block;
+}
+
+#button210 {
+    display: none;
+}
+
 .btn:hover {
     cursor: pointer;
     background-color: #8b2faf;;
