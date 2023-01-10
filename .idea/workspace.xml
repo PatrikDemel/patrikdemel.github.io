@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="style edited">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="testing pushes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +43,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/Webstorm-Projects",
+    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io",
     "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -141,10 +149,10 @@
       <workItem from="1673018962022" duration="16113000" />
       <workItem from="1673035339091" duration="61000" />
       <workItem from="1673104209069" duration="26502000" />
-      <workItem from="1673185032736" duration="11623000" />
-      <workItem from="1673204595103" duration="2826000" />
-      <workItem from="1673259256706" duration="51000" />
-      <workItem from="1673259318498" duration="195000" />
+      <workItem from="1673185032736" duration="11565000" />
+      <workItem from="1673286801545" duration="467000" />
+      <workItem from="1673287303633" duration="305000" />
+      <workItem from="1673287648916" duration="208000" />
     </task>
     <task id="LOCAL-00028" summary="added hamburger menu in index.html">
       <created>1669308495485</created>
@@ -482,12 +490,12 @@
       <option name="project" value="LOCAL" />
       <updated>1673196462988</updated>
     </task>
-    <task id="LOCAL-00076" summary="style edited">
-      <created>1673196757319</created>
+    <task id="LOCAL-00076" summary="testing pushes">
+      <created>1673286820934</created>
       <option name="number" value="00076" />
       <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1673196757319</updated>
+      <updated>1673286820934</updated>
     </task>
     <option name="localTasksCounter" value="77" />
     <servers />
@@ -532,7 +540,7 @@
     <MESSAGE value="adding local storage saving" />
     <MESSAGE value="added personal productID for local storage save" />
     <MESSAGE value="preventing no items in cart" />
-    <MESSAGE value="style edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="style edited" />
+    <MESSAGE value="testing pushes" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing pushes" />
   </component>
 </project>
