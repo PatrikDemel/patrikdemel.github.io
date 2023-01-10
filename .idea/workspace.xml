@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="preventing no items in cart">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="style edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop/cs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eshop/cs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/Webstorm-Projects",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\eshop" />
@@ -141,14 +141,10 @@
       <workItem from="1673018962022" duration="16113000" />
       <workItem from="1673035339091" duration="61000" />
       <workItem from="1673104209069" duration="26502000" />
-      <workItem from="1673185032736" duration="11565000" />
-    </task>
-    <task id="LOCAL-00027" summary="edited index.html, mobile.css - hamburger menu">
-      <created>1669282531953</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1669282531953</updated>
+      <workItem from="1673185032736" duration="11623000" />
+      <workItem from="1673204595103" duration="2826000" />
+      <workItem from="1673259256706" duration="51000" />
+      <workItem from="1673259318498" duration="195000" />
     </task>
     <task id="LOCAL-00028" summary="added hamburger menu in index.html">
       <created>1669308495485</created>
@@ -486,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673196462988</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="style edited">
+      <created>1673196757319</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1673196757319</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +508,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="switched ul li a in index.html" />
     <MESSAGE value="advanced.html added to project" />
     <MESSAGE value="main.css edited" />
     <MESSAGE value="advanced css edited" />
@@ -530,6 +532,7 @@
     <MESSAGE value="adding local storage saving" />
     <MESSAGE value="added personal productID for local storage save" />
     <MESSAGE value="preventing no items in cart" />
-    <option name="LAST_COMMIT_MESSAGE" value="preventing no items in cart" />
+    <MESSAGE value="style edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="style edited" />
   </component>
 </project>
