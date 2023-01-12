@@ -4,9 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changes added">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/Piano/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/Piano/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picasso painting/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Picasso painting/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/.idea/Balance-sheet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/Balance-sheet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Balance sheet/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/.idea/Picasso-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/Picasso-painting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picasso painting/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/.github/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/.idea/fcc-01-survey-form-PatrikDemel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/background-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey form/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/.idea/fcc-02-tribute-page-PatrikDemel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/idnex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/img/tribute-page-main-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tribute page/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Tribute page/idnex.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Tribute page/idnex.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,14 +191,7 @@
       <workItem from="1673537858256" duration="334000" />
       <workItem from="1673539674172" duration="533000" />
       <workItem from="1673541755235" duration="118000" />
-      <workItem from="1673541875994" duration="738000" />
-    </task>
-    <task id="LOCAL-00033" summary="new project - google search">
-      <created>1669711227326</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1669711227326</updated>
+      <workItem from="1673541875994" duration="2646000" />
     </task>
     <task id="LOCAL-00034" summary="feeling lucky implemented to index.html">
       <created>1669883427641</created>
@@ -507,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673541952608</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="project finished">
+      <created>1673542632981</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1673542632981</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed language cs to en" />
     <MESSAGE value="deleted responsive.css" />
     <MESSAGE value="first commit" />
     <MESSAGE value="new project (Projekt6) == ToDoList 1/2" />
@@ -551,6 +579,7 @@
     <MESSAGE value="new directories" />
     <MESSAGE value="eshop deleted" />
     <MESSAGE value="changes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes added" />
+    <MESSAGE value="project finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
   </component>
 </project>

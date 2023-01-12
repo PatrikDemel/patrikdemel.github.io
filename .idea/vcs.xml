@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/Projekt6" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Survey form" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tribute page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/freeCodeCamp/Survey form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/freeCodeCamp/Tribute page" vcs="Git" />
   </component>
 </project>
