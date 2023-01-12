@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="eshop deleted">
-      <change afterPath="$PROJECT_DIR$/Picasso painting/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picasso painting/styles.css" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="changes added">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2H9IGrvdPNPI8mV8aTVAGfBicos" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,14 +46,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io",
+    "last_opened_file_path": "C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io/Projekt6",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -156,14 +158,11 @@
       <workItem from="1673287303633" duration="305000" />
       <workItem from="1673287648916" duration="208000" />
       <workItem from="1673513430441" duration="48000" />
-      <workItem from="1673513508349" duration="2505000" />
-    </task>
-    <task id="LOCAL-00031" summary="new project - google search">
-      <created>1669708214163</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1669708214163</updated>
+      <workItem from="1673513508349" duration="2728000" />
+      <workItem from="1673537858256" duration="334000" />
+      <workItem from="1673539674172" duration="533000" />
+      <workItem from="1673541755235" duration="118000" />
+      <workItem from="1673541875994" duration="71000" />
     </task>
     <task id="LOCAL-00032" summary="new project - google search">
       <created>1669710474238</created>
@@ -501,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673513444313</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="changes added">
+      <created>1673516232595</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1673516232595</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="advanced css edited" />
     <MESSAGE value="changed language cs to en" />
     <MESSAGE value="deleted responsive.css" />
     <MESSAGE value="first commit" />
@@ -545,6 +550,7 @@
     <MESSAGE value="testing pushes" />
     <MESSAGE value="new directories" />
     <MESSAGE value="eshop deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="eshop deleted" />
+    <MESSAGE value="changes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes added" />
   </component>
 </project>
