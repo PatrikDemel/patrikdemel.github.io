@@ -3,6 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <title>Python Documentation Page</title>
 </head>
 
@@ -20,11 +24,11 @@
     <section class="main-section" id="Introduction">
         <header>Introduction</header>
         <p>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code
-            readability with the use of significant indentation.</p>
-        <p>Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including
+            readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It
+            supports multiple programming paradigms, including
             structured (particularly procedural), object-oriented and functional programming. It is often described as a
-            "batteries included" language due to its comprehensive standard library</p>
-        <p>Python consistently ranks as one of the most popular programming languages.</p>
+            "batteries included" language due to its comprehensive standard library. Python consistently ranks as one of
+            the most popular programming languages.</p>
     </section>
     <section class="main-section" id="History">
         <header>History</header>
@@ -58,48 +62,41 @@
         <p>Hello world program:</p>
         <code>print('Hello, world!')</code>
         <p>Program to calculate the factorial of a positive integer:</p>
-        <code>n = int(input('Type a number, and its factorial will be printed: '))
-
-            if n < 0:
-            raise ValueError('You must enter a non-negative integer')
-
-            factorial = 1
-            for i in range(2, n + 1):
-            factorial *= i
-
-            print(factorial)</code>
+        <code>n = int(input('Type a number, and its factorial will be printed: '))<br><br>
+            if n < 0:<br>
+            &ensp; raise ValueError('You must enter a non-negative integer')<br><br>
+            factorial = 1 <br>
+            for i in range(2, n + 1):<br>
+            &ensp; factorial *= i <br>
+            &ensp; print(factorial)</code>
         <p>Make total of two numbers:</p>
         <code>
-            num1 = 3
-            num2 = 5
-
-            total = num1 + num2
-
+            num1 = 3 <br>
+            num2 = 5 <br><br>
+            total = num1 + num2 <br><br>
             print(total)
         </code>
         <p>Displaying number higher than 10:</p>
         <code>
-            numbers = [1, 2, 40, 20]
-
-            i = 0
-            for i in range(3):
-                if numbers[i] > 10:
-                    print(numbers[i])
-                    i += 1
-                else:
-                    i += 1
+            numbers = [1, 2, 40, 20]<br><br>
+            i = 0 <br>
+            for i in range(3):<br>
+            &ensp; if numbers[i] > 10:<br>
+            &emsp; print(numbers[i])<br>
+            &emsp; += 1 <br>
+            &ensp; else: <br>
+            &emsp; += 1
         </code>
         <p>Displaying word "hello" from list:</p>
         <code>
-            list = ["hi", "howdy", "hello", "goodbye"]
-
-            i = 0
-            for i in range(3):
-                if list[i] == "hello":
-                    print(list[i])
-                    i += 1
-                else:
-                    i += 1
+            list = ["hi", "howdy", "hello", "goodbye"]<br><br>
+            i = 0 <br>
+            for i in range(3): <br>
+            &ensp; if list[i] == "hello": <br>
+            &emsp; print(list[i]) <br>
+            &emsp; i += 1 <br>
+            &ensp; else: <br>
+            &emsp; i += 1
         </code>
     </section>
     <section class="main-section" id="Libraries">
