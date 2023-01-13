@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="index finished">
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/documentation-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/documentation-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/documentation-page/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/documentation-page/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -164,14 +162,7 @@
       <workItem from="1673539674172" duration="533000" />
       <workItem from="1673541755235" duration="118000" />
       <workItem from="1673541875994" duration="5076000" />
-      <workItem from="1673622827714" duration="3632000" />
-    </task>
-    <task id="LOCAL-00036" summary="advanced.html added to project">
-      <created>1669884178354</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1669884178354</updated>
+      <workItem from="1673622827714" duration="6261000" />
     </task>
     <task id="LOCAL-00037" summary="main.css edited">
       <created>1669884558733</created>
@@ -509,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673546990784</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="project finished">
+      <created>1673626601170</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1673626601170</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,8 +549,8 @@
     <MESSAGE value="new directories" />
     <MESSAGE value="eshop deleted" />
     <MESSAGE value="changes added" />
-    <MESSAGE value="project finished" />
     <MESSAGE value="index finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="index finished" />
+    <MESSAGE value="project finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
   </component>
 </project>
