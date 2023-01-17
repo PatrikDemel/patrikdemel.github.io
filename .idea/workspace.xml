@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
-      <change afterPath="$PROJECT_DIR$/blank/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blank/styles.css" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new directory (blank for freecodecamp)">
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/logo-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/waving-penguin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freeCodeCamp/waving-penguin/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blank/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +71,11 @@
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\freeCodeCamp\product-landing-page" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\freeCodeCamp" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\eshop\pdf" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Projekt6\img" />
-      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\GoogleSearch\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -168,21 +172,8 @@
       <workItem from="1673630880175" duration="4232000" />
       <workItem from="1673797038213" duration="12804000" />
       <workItem from="1673887498930" duration="114000" />
-      <workItem from="1673888532812" duration="2388000" />
-    </task>
-    <task id="LOCAL-00038" summary="advanced css edited">
-      <created>1669885130667</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1669885130667</updated>
-    </task>
-    <task id="LOCAL-00039" summary="changed language cs to en">
-      <created>1669885277676</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1669885277676</updated>
+      <workItem from="1673888532812" duration="2423000" />
+      <workItem from="1673972293044" duration="11284000" />
     </task>
     <task id="LOCAL-00040" summary="deleted responsive.css">
       <created>1670310458433</created>
@@ -513,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673629145862</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="new directory (blank for freecodecamp)">
+      <created>1673893915385</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1673893915385</updated>
+    </task>
+    <task id="LOCAL-00088" summary="new directory (blank for freecodecamp)">
+      <created>1673893925104</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1673893925104</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first commit" />
     <MESSAGE value="new project (Projekt6) == ToDoList 1/2" />
     <MESSAGE value="javascript added &gt;&gt; saving to memory" />
     <MESSAGE value="final commit" />
@@ -557,6 +561,7 @@
     <MESSAGE value="changes added" />
     <MESSAGE value="index finished" />
     <MESSAGE value="project finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
+    <MESSAGE value="new directory (blank for freecodecamp)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new directory (blank for freecodecamp)" />
   </component>
 </project>
