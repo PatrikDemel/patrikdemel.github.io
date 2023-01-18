@@ -1,0 +1,221 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}
+
+:root {
+    --black-color: #090302;
+    --white-color: white;
+    --color-transition-1: #0bffd6;
+    --color-transition-2: #0404ad;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#welcome-title, #welcome-section p, #projects h2, #contact h2, #contact p {
+    cursor: default;
+}
+
+#welcome-section {
+    height: 100vh;
+    background-color: var(--black-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#welcome-title {
+    font-size: 5rem;
+    font-weight: 800;
+    background: linear-gradient(65deg, var(--color-transition-1) 0%, var(--color-transition-2) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#welcome-section p {
+    color: white;
+    padding: 2rem 0;
+    font-size: 1.5rem;
+}
+
+#navbar {
+    background-color: var(--black-color);
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem 5rem 1rem 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.nav-link {
+    padding: 1rem;
+    color: var(--white-color);
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: all ease 0.3s;
+}
+
+.nav-link:hover {
+    color: var(--color-transition-1);
+}
+
+#projects {
+    background: linear-gradient(20deg, var(--color-transition-1) 0%, var(--color-transition-2) 100%);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 10%;
+}
+
+#projects h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 3rem 0;
+    color: var(--white-color);
+}
+
+.items {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    width: 25%;
+    margin: 2rem;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--black-color);
+    cursor: pointer;
+    transition: all ease-out 0.2s;
+}
+
+.project-tile {
+    padding: 2rem 0;
+    color: var(--white-color);
+}
+
+.item:hover {
+    width: 30%;
+}
+
+#profile-link {
+    display: block;
+}
+
+
+#contact {
+    display: flex;
+    height: 30vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--black-color);
+}
+
+#contact h2 {
+    font-size: 2.5rem;
+    padding-top: 3rem;
+    color: var(--white-color);
+}
+
+#contact p {
+    font-size: 1.2rem;
+    padding: 1rem 0 2rem 0;
+    color: var(--white-color);
+}
+
+#contact .icons {
+    margin-top: 1rem;
+}
+
+#contact .icon {
+    font-size: 2.3rem;
+    padding: 1rem;
+    cursor: pointer;
+    color: var(--color-transition-1);
+    transition: all 0.3s ease;
+}
+
+#contact .icon:hover {
+    color: var(--color-transition-2);
+}
+
+.item-photo {
+    width: 100%;
+    object-fit: cover;
+}
+
+#profile-link {
+    background-color: var(--color-transition-2);
+    text-align: center;
+    padding: 1rem 3rem;
+    color: var(--white-color);
+    text-decoration: none;
+    margin: 2rem 0 0 0;
+    transition: all ease-out 0.3s;
+}
+
+#profile-link:hover {
+    background-color: var(--black-color);
+}
+
+@media screen and (max-width: 769px) {
+    #navbar {
+        padding: 1rem;
+    }
+
+    .nav-link {
+        font-size: 1rem;
+    }
+
+    #welcome-title {
+        font-size: 2.5rem;
+        padding: 0 1rem;
+    }
+
+    #welcome-section p {
+        font-size: 1rem;
+    }
+
+    #projects h2 {
+        font-size: 2rem;
+    }
+
+    .items {
+        flex-direction: column;
+    }
+
+    .item {
+        width: 100%;
+        margin: 0 0 2rem 0;
+    }
+
+    #contact {
+        height: auto;
+    }
+
+    #contact h2 {
+        font-size: 1.5rem;
+    }
+
+    #contact p {
+        font-size: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .icons {
+        margin: 0 0 3rem 0;
+    }
+}

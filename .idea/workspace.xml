@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="new directory (blank for freecodecamp)">
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/logo-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/waving-penguin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/waving-penguin/styles.css" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blank/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io/Projekt6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -173,14 +167,10 @@
       <workItem from="1673797038213" duration="12804000" />
       <workItem from="1673887498930" duration="114000" />
       <workItem from="1673888532812" duration="2423000" />
-      <workItem from="1673972293044" duration="11284000" />
-    </task>
-    <task id="LOCAL-00040" summary="deleted responsive.css">
-      <created>1670310458433</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1670310458433</updated>
+      <workItem from="1673972293044" duration="11381000" />
+      <workItem from="1674061792830" duration="36000" />
+      <workItem from="1674063711289" duration="46000" />
+      <workItem from="1674064095147" duration="39000" />
     </task>
     <task id="LOCAL-00041" summary="first commit">
       <created>1670961883343</created>
@@ -518,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673893925104</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="project finished">
+      <created>1673990651364</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1673990651364</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,8 +557,8 @@
     <MESSAGE value="eshop deleted" />
     <MESSAGE value="changes added" />
     <MESSAGE value="index finished" />
-    <MESSAGE value="project finished" />
     <MESSAGE value="new directory (blank for freecodecamp)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new directory (blank for freecodecamp)" />
+    <MESSAGE value="project finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
   </component>
 </project>
