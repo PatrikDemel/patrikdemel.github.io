@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blank/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/blank/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,13 +172,9 @@
       <workItem from="1674504489191" duration="40000" />
       <workItem from="1674544129656" duration="733000" />
       <workItem from="1675148356743" duration="2919000" />
-    </task>
-    <task id="LOCAL-00038" summary="advanced css edited">
-      <created>1669885130667</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1669885130667</updated>
+      <workItem from="1675151559874" duration="693000" />
+      <workItem from="1675162726009" duration="369000" />
+      <workItem from="1675193048346" duration="2745000" />
     </task>
     <task id="LOCAL-00039" summary="changed language cs to en">
       <created>1669885277676</created>
@@ -516,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674503103619</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="project finished">
+      <created>1675151798502</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1675151798505</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
