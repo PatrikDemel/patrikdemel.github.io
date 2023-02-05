@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="./styles.css">
+    <title>TimeLine Page</title>
+</head>
+
+<body>
+<header id="header">
+    <h1 class="heading-1">My projects' timeline</h1>
+    <h3 class="heading-3">Patrik Demel</h3>
+</header>
+<section id="timeline">
+    <ul>
+        <li>
+            <div>
+                <h3 class="heading-3">Fotografování a úpravy fotek</h3>
+                <p>14.09.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">Cestování</h3>
+                <p>18.09.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">Google Search</h3>
+                <p>21.09.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">Vektory</h3>
+                <p>13.12.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">Rovnoběžnost vektorů</h3>
+                <p>13.12.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">To-Do List</h3>
+                <p>21.12.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Survey Form</h3>
+                <p>03.01.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Tribute Page</h3>
+                <p>08.01.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Technical Documentation Page</h3>
+                <p>18.01.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Product Landing Page</h3>
+                <p>31.01.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Waving Penguin</h3>
+                <p>03.02.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Picasso Painting</h3>
+                <p>03.02.2022</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Waving Penguin</h3>
+                <p>04.02.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Personal Portfolio</h3>
+                <p>04.02.2023</p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <h3 class="heading-3">(freeCodeCamp) Timeline Page</h3>
+                <p>05.02.2023</p>
+            </div>
+        </li>
+    </ul>
+</section>
+</body>
+<script>
+    const items = document.querySelectorAll("#timeline li");
+
+    const isInViewport = (el) => {
+        const rect = el.getBoundingClientRect();
+        return (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <=
+            (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    const run = () =>
+        items.forEach((item) => {
+            if (isInViewport(item)) {
+                item.classList.add("show");
+            }
+        });
+
+    // Events
+    window.addEventListener("load", run);
+    window.addEventListener("resize", run);
+    window.addEventListener("scroll", run);
+</script>
+</html>
