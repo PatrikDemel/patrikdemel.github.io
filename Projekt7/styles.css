@@ -57,7 +57,7 @@ p {
 #timeline ul li div {
     position: relative;
     bottom: 0;
-    width: 400px;
+    width: 300px;
     padding: 1rem;
     background-color: var(--dark-color);
     color: var(--white-color);
@@ -81,7 +81,7 @@ p {
 }
 
 #timeline ul li:nth-child(even) div {
-    left: -434px;
+    left: -340px;
 }
 
 #timeline ul li.show:nth-child(even) div {
@@ -127,6 +127,7 @@ p {
     border-color: transparent transparent transparent var(--dark-color);
 }
 
+
 @media screen and (max-width: 900px) {
     #timeline ul li div {
         width: 250px;
@@ -147,7 +148,7 @@ p {
     }
 
     #timeline ul li:nth-child(even) div {
-        left: 40px;
+        left: 130px;
     }
 
     #timeline ul li:nth-child(even) div::before {
