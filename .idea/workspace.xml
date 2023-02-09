@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt8/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="finished">
       <change beforePath="$PROJECT_DIR$/Projekt7/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt7/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/Picasso-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/Picasso-painting.iml" afterDir="false" />
@@ -194,21 +182,7 @@
       <workItem from="1675324283070" duration="1158000" />
       <workItem from="1675629294357" duration="4302000" />
       <workItem from="1675882598557" duration="134000" />
-      <workItem from="1675955821825" duration="6574000" />
-    </task>
-    <task id="LOCAL-00043" summary="first commit">
-      <created>1671382273395</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1671382273395</updated>
-    </task>
-    <task id="LOCAL-00044" summary="first commit">
-      <created>1671382632075</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1671382632075</updated>
+      <workItem from="1675955821825" duration="6884000" />
     </task>
     <task id="LOCAL-00045" summary="first commit">
       <created>1671465549388</created>
@@ -539,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675955834736</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="finished">
+      <created>1675962585284</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1675962585284</updated>
+    </task>
+    <task id="LOCAL-00093" summary="finished">
+      <created>1675962786210</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1675962786210</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first commit" />
     <MESSAGE value="new project (Projekt6) == ToDoList 1/2" />
     <MESSAGE value="javascript added &gt;&gt; saving to memory" />
     <MESSAGE value="final commit" />
@@ -583,6 +570,7 @@
     <MESSAGE value="changes added" />
     <MESSAGE value="index finished" />
     <MESSAGE value="project finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
 </project>
