@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <title>Python Documentation Page</title>
+</head>
+
+
+<body>
+<main id="main-doc">
+    <nav id="navbar">
+        <header>Python documentation</header>
+        <a href="#Introduction" class="nav-link">Introduction</a>
+        <a href="#History" class="nav-link">History</a>
+        <a href="#Programming_examples" class="nav-link">Programming examples</a>
+        <a href="#Libraries" class="nav-link">Libraries</a>
+        <a href="#Naming" class="nav-link">Naming</a>
+    </nav>
+    <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <p>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code
+            readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It
+            supports multiple programming paradigms, including
+            structured (particularly procedural), object-oriented and functional programming. It is often described as a
+            "batteries included" language due to its comprehensive standard library. Python consistently ranks as one of
+            the most popular programming languages.</p>
+    </section>
+    <section class="main-section" id="History">
+        <header>History</header>
+        <p>Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the
+            Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of
+            exception handling (from the start plus new capabilities in Python 3.11) and interfacing with the Amoeba
+            operating system. Its implementation began in December 1989. Van Rossum shouldered sole
+            responsibility for the project, as the lead developer, until 12 July 2018, when he announced his "permanent
+            vacation" from his responsibilities as Python's "benevolent dictator for life", a title the Python community
+            bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January
+            2019, active Python core developers elected a five-member Steering Council to lead the project.</p>
+        <p>Python 2.0 was released on 16 October 2000, with many major new features. Python 3.0, released on 3
+            December 2008, with many of its major features backported to Python 2.6.x and 2.7.x. Releases of Python
+            3 include the 2to3 utility, which automates the translation of Python 2 code to Python 3.</p>
+        <p>Python 2.7's end-of-life was initially set for 2015, then postponed to 2020 out of concern that a large body
+            of existing code could not easily be forward-ported to Python 3. No further security patches or
+            other improvements will be released for it. Currently only 3.7 and later are supported. In 2021,
+            Python 3.9.2 and 3.8.8 were expedited as all versions of Python (including 2.7) had security issues
+            leading to possible remote code execution and web cache poisoning.</p>
+        <p>In 2022, Python 3.10.4 and 3.9.12 were expedited and 3.8.13, and 3.7.13, because of many security
+            issues. When Python 3.9.13 was released in May 2022, it was announced that the 3.9 series (joining the
+            older series 3.8 and 3.7) will only receive security fixes going forward. On September 7, 2022, four new
+            releases were made due to a potential denial-of-service attack: 3.10.7, 3.9.14, 3.8.14, and
+            3.7.14.</p>
+        <p>As of November 2022, Python 3.11.0 is the current stable release and among the notable changes from 3.10 are
+            that it is 10–60% faster and significantly improved error reporting.</p>
+        <p>Python 3.12 (alpha 2) has improved error messages.</p>
+    </section>
+    <section class="main-section" id="Programming_examples">
+        <header>Programming examples</header>
+        <p>Hello world program:</p>
+        <code>print('Hello, world!')</code>
+        <p>Program to calculate the factorial of a positive integer:</p>
+        <code>n = int(input('Type a number, and its factorial will be printed: '))<br><br>
+            if n < 0:<br>
+            &ensp; raise ValueError('You must enter a non-negative integer')<br><br>
+            factorial = 1 <br>
+            for i in range(2, n + 1):<br>
+            &ensp; factorial *= i <br>
+            &ensp; print(factorial)</code>
+        <p>Make total of two numbers:</p>
+        <code>
+            num1 = 3 <br>
+            num2 = 5 <br><br>
+            total = num1 + num2 <br><br>
+            print(total)
+        </code>
+        <p>Displaying number higher than 10:</p>
+        <code>
+            numbers = [1, 2, 40, 20]<br><br>
+            i = 0 <br>
+            for i in range(3):<br>
+            &ensp; if numbers[i] > 10:<br>
+            &emsp; print(numbers[i])<br>
+            &emsp; += 1 <br>
+            &ensp; else: <br>
+            &emsp; += 1
+        </code>
+        <p>Displaying word "hello" from list:</p>
+        <code>
+            list = ["hi", "howdy", "hello", "goodbye"]<br><br>
+            i = 0 <br>
+            for i in range(3): <br>
+            &ensp; if list[i] == "hello": <br>
+            &emsp; print(list[i]) <br>
+            &emsp; i += 1 <br>
+            &ensp; else: <br>
+            &emsp; i += 1
+        </code>
+    </section>
+    <section class="main-section" id="Libraries">
+        <header>Libraries</header>
+        <p>Python's large standard library provides tools suited to many tasks and is commonly cited as one of its
+            greatest strengths. For Internet-facing applications, many standard formats and protocols such as MIME and
+            HTTP are supported. It includes modules for creating graphical user interfaces, connecting to relational
+            databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating
+            regular expressions, and unit testing.</p>
+        <p>Some parts of the standard library are covered by specifications—for example, the Web Server Gateway
+            Interface (WSGI) implementation wsgiref follows PEP 333—but most are specified by their code, internal
+            documentation, and test suites. However, because most of the standard library is cross-platform Python code,
+            only a few modules need altering or rewriting for variant implementations.</p>
+        <p>As of 14 November 2022, the Python Package Index (PyPI), the official repository for third-party Python
+            software, contains over 415,000 packages with a wide range of functionality, including:</p>
+        <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Automation">Automation</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Analytics">Analytics</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Database">Database</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Documentation">Documentation</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Graphical_user_interface">Graphical user interface</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Digital_image_processing">Digital image processing</a></li>
+        </ul>
+    </section>
+    <section class="main-section" id="Naming">
+        <header>Naming</header>
+        <p>Python's name is derived from the British comedy group Monty Python, whom Python creator Guido van Rossum
+            enjoyed while developing the language. Monty Python references appear frequently in Python code and
+            culture; for example, the metasyntactic variables often used in Python literature are spam and eggs
+            instead of the traditional foo and bar. The official Python documentation also contains various
+            references to Monty Python routines.</p>
+        <p>The prefix Py- is used to show that something is related to Python. Examples of the use of this prefix in
+            names of Python applications or libraries include Pygame, a binding of SDL to Python (commonly used to
+            create games); PyQt and PyGTK, which bind Qt and GTK to Python respectively; and PyPy, a Python
+            implementation originally written in Python.</p>
+    </section>
+</main>
+</body>
+</html>

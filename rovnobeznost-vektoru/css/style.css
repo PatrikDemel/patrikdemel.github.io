@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: #d3ffa6;
+}
+
+form {
+    margin-left: 15px;
+    text-align: center;
+
+}
+
+#submit {
+    margin-top: 1.5rem;
+    background-color: #f38282;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+#vysledek {
+    text-align: center;
+    font-size: 2em;
+    color: #0a050b;
+    margin-top: 1rem;
+}
+
+form {
+    margin-top: 3rem;
+}

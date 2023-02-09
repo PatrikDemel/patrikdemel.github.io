@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="icon" href="./img/icon-title.svg">
+    <link rel="stylesheet" href="./cs/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap" rel="stylesheet">
+    <title>Advanced Search</title>
+</head>
+
+
+<body>
+<nav id="navigation_bar">
+    <ul>
+        <li><a href="index.html">Search</a></li>
+        <li><a href="images.html">Images</a></li>
+        <li><a class="current" href="advanced.html">Advanced</a></li>
+    </ul>
+</nav>
+<section id="advanced">
+    <h1>Advanced search</h1>
+    <div class="content">
+        <div class="labels">
+            <label for="all">All these words: </label>
+            <label for="exact">Exact word or phrase:</label>
+            <label for="any">Any of these words:</label>
+            <label for="none">None of these words:</label>
+        </div>
+        <form action="https://google.com/search" class="inputs">
+            <input type="text" id="all" name="as_q">
+            <input type="text" id="exact" name="as_epq">
+            <input type="text" id="any" name="as_oq">
+            <input type="text" id="none" name="as_eq">
+            <input type="submit" value="Advanced search" class="button" id="advanced-button">
+        </form>
+    </div>
+</section>
+</body>
+</html>
