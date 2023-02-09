@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="project finished">
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/img/projekt9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt8/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt7/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt7/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/Picasso-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/Picasso-painting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,25 +56,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patrik Demel/WebstormProjects/patrikdemel.github.io/Projekt6&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/patrikdemel/Documents/Webstorm/patrikdemel.github.io",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Tribute page" />
@@ -176,13 +194,7 @@
       <workItem from="1675324283070" duration="1158000" />
       <workItem from="1675629294357" duration="4302000" />
       <workItem from="1675882598557" duration="134000" />
-    </task>
-    <task id="LOCAL-00042" summary="first commit">
-      <created>1670962903848</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1670962903848</updated>
+      <workItem from="1675955821825" duration="6574000" />
     </task>
     <task id="LOCAL-00043" summary="first commit">
       <created>1671382273395</created>
@@ -520,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675633719451</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="project finished">
+      <created>1675955834735</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1675955834736</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
