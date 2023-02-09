@@ -164,3 +164,34 @@ footer {
     background-color: var(--dark-color);
     padding-bottom: 3rem;
 }
+
+@media screen and (max-width: 769px) {
+    #navbar {
+        width: 100%;
+        justify-content: center;
+        padding: 0;
+    }
+
+    .heading-1 {
+        font-size: 2rem;
+    }
+
+    .heading-2 {
+        font-size: 1.5rem;
+    }
+
+    #project-box {
+        grid-template-rows: 15rem 15rem 15rem 15rem 15rem 15rem 15rem 15rem 15rem;
+        grid-template-columns: 90%;
+    }
+
+    .contact-box {
+        width: 90%;
+        flex-direction: row;
+    }
+
+    .icon-link i {
+        font-size: 2rem;
+        width: 20%;
+    }
+}

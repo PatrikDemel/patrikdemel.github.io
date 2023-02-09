@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="finished">
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/Picasso-painting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt8/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt8/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,11 @@
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/freeCodeCamp/picasso-painting" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\freeCodeCamp" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\eshop\pdf" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io" />
       <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\Projekt6\img" />
-      <recent name="C:\Users\Patrik Demel\WebstormProjects\patrikdemel.github.io\GoogleSearch\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -179,14 +178,7 @@
       <workItem from="1675324283070" duration="1158000" />
       <workItem from="1675629294357" duration="4302000" />
       <workItem from="1675882598557" duration="134000" />
-      <workItem from="1675955821825" duration="7210000" />
-    </task>
-    <task id="LOCAL-00047" summary="javascript added &gt;&gt; saving to memory">
-      <created>1671471971200</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1671471971200</updated>
+      <workItem from="1675955821825" duration="8074000" />
     </task>
     <task id="LOCAL-00048" summary="final commit">
       <created>1671472059701</created>
@@ -524,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675963094867</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="finished">
+      <created>1675963233479</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1675963233479</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
