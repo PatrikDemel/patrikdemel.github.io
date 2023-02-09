@@ -5,80 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="finished">
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/survey-form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/survey-form/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/tribute-page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/tribute-page/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/cs/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/cs/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/cs/mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/cs/notebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/cs/notebook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/about-right.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/about-right.JPEG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/home-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/home-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/lightroomlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/lightroomlogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/showcase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/showcase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/testimonials-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/testimonials-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/img/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/img/user.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotografovani/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/css/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/css/mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/css/widescreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/css/widescreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/photos-photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/photos-photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/photos-photo4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/photos-photo4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/photos-photo5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/photos-photo5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/project-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/project-image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/showcase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/showcase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/img/title-image.svg" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/img/title-image.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt2/pallette.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cestovani/pallette.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt3/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/google-search/advanced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt3/cs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/google-search/cs/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt3/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/google-search/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt3/img/icon-title.svg" beforeDir="false" afterPath="$PROJECT_DIR$/google-search/img/icon-title.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/google-search/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt5/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/rovnobeznost-vektoru/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rovnobeznost-vektoru/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt6/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt6/img/title-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt6/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeline/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt7/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/timeline/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt1.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt2.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt3.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt4.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt5.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt6.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt7.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt8.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/img/projekt9.png" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/img/projekt9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekt8/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/personal-portfolio/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/Balance-sheet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/.idea/Balance-sheet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Balance sheet/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/nutrition-label/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Piano/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/piano/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Piano/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/piano/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/documentation-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/documentation-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/documentation-page/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/documentation-page/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot-3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot-4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot-5.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot-6.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/screenshot2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/personal-portfolio/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/product-landing-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/logo-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/product-landing-page/logo-1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/product-landing-page/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/certifications/product-landing-page/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/.idea/Projekt6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/.idea/Projekt6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/img/title-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/img/title-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/todo-list/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -249,28 +184,7 @@
       <workItem from="1675324283070" duration="1158000" />
       <workItem from="1675629294357" duration="4302000" />
       <workItem from="1675882598557" duration="134000" />
-      <workItem from="1675955821825" duration="8650000" />
-    </task>
-    <task id="LOCAL-00049" summary="final commit">
-      <created>1671749217489</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1671749217489</updated>
-    </task>
-    <task id="LOCAL-00050" summary="new directory (eshop)">
-      <created>1672858498027</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1672858498027</updated>
-    </task>
-    <task id="LOCAL-00051" summary="new products in eshop">
-      <created>1672861826342</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1672861826342</updated>
+      <workItem from="1675955821825" duration="9605000" />
     </task>
     <task id="LOCAL-00052" summary="category full-filled">
       <created>1672862470070</created>
@@ -594,7 +508,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675964082412</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="finished">
+      <created>1675964655959</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1675964655959</updated>
+    </task>
+    <task id="LOCAL-00099" summary="finished">
+      <created>1675964710695</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1675964710695</updated>
+    </task>
+    <task id="LOCAL-00100" summary="finished">
+      <created>1675964813084</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1675964813084</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
