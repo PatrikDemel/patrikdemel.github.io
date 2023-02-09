@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1ca4c9-baa4-4390-824f-811a270b03ff" name="Changes" comment="finished">
-      <change beforePath="$PROJECT_DIR$/Projekt7/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt7/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/Picasso-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/Picasso-painting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Picasso painting/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/Picasso-painting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/picasso-painting/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,21 +179,7 @@
       <workItem from="1675324283070" duration="1158000" />
       <workItem from="1675629294357" duration="4302000" />
       <workItem from="1675882598557" duration="134000" />
-      <workItem from="1675955821825" duration="6884000" />
-    </task>
-    <task id="LOCAL-00045" summary="first commit">
-      <created>1671465549388</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1671465549388</updated>
-    </task>
-    <task id="LOCAL-00046" summary="new project (Projekt6) == ToDoList 1/2">
-      <created>1671469257220</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1671469257220</updated>
+      <workItem from="1675955821825" duration="7210000" />
     </task>
     <task id="LOCAL-00047" summary="javascript added &gt;&gt; saving to memory">
       <created>1671471971200</created>
@@ -527,7 +510,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675962786210</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="finished">
+      <created>1675963013442</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1675963013443</updated>
+    </task>
+    <task id="LOCAL-00095" summary="finished">
+      <created>1675963094867</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1675963094867</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
