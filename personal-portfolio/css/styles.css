@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  cursor: default;
+}
+
+:root {
+  --dark-color: #00272b;
+  --darker-color: #002327;
+  --white-color: #fefffe;
+  --gray-color: #b1b1b1;
+  --max-width: 85vw;
+}
+
+body {
+  background-color: var(--dark-color);
+  max-width: var(--max-width);
+  margin: auto;
+}
+
+.button {
+  border: 3px solid var(--white-color);
+  transition: border-color ease-in-out 0.3s;
+  cursor: pointer;
+  color: var(--white-color);
+  text-decoration: none;
+}
+
+.button:hover {
+  border-color: var(--gray-color);
+}
+
+.button-icon {
+  margin-left: 0.5rem;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-container {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-container:nth-of-type(2) {
+  justify-content: flex-end;
+  margin-right: 1rem;
+}
+
+.footer-link {
+  color: var(--white-color);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: color ease-in-out 0.3s;
+  margin: 0 1rem 0 0.5rem;
+}
+
+.footer-icon {
+  margin: 0 0.5rem 0 0;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.footer-link:hover {
+  color: var(--gray-color);
+}
+
+#navbar,
+#footer {
+  height: 80px;
+  background-color: transparent;
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navbar-link {
+  color: var(--white-color);
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: 400;
+  padding-bottom: 0.5rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.navbar-link::after {
+  content: "";
+  height: 3px;
+  background-color: var(--white-color);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  transition: width ease-in-out 0.3s;
+}
+
+.navbar-link:hover::after {
+  width: 100%;
+}

@@ -1,0 +1,41 @@
+#showcase-section {
+  display: flex;
+  align-items: center;
+  height: 70vh;
+}
+
+#showcase-heading {
+  font-size: 3rem;
+  color: var(--white-color);
+}
+
+#showcase-subheading {
+  font-size: 1.3rem;
+  color: var(--white-color);
+  font-weight: 300;
+}
+
+.showcase-section-container {
+  width: 50%;
+}
+
+.showcase-section-container:nth-of-type(2) {
+  padding: 2rem;
+}
+
+#showcase-description {
+  color: var(--white-color);
+  font-weight: 300;
+  margin-top: 3rem;
+}
+
+#showcase-button {
+  padding: 0.8rem 3rem;
+  margin-top: 2rem;
+  display: inline-block;
+}
+
+#showcase-section-image {
+  width: 100%;
+  border-radius: 15px;
+}
