@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost", sans-serif;
+  cursor: default;
+}
+
+:root {
+  --dark-color: #0d1821;
+  --white-color: #fff;
+  --background-color: #f9eecc;
+  --green-color: #197278;
+}
+
+@keyframes underlineAnimation {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.section {
+  background-color: var(--background-color);
+  padding: 3rem 5rem;
+}
+
+.button {
+  font-size: 1.2rem;
+  border: 3px solid var(--dark-color);
+  text-decoration: none;
+  color: var(--dark-color);
+  display: flex;
+  width: 10.5rem;
+  height: 3.5rem;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.button-icon {
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  border-color: var(--green-color);
+  color: var(--green-color);
+}
+
+#navbar {
+  display: flex;
+  justify-content: flex-end;
+  background-color: var(--background-color);
+  align-items: center;
+  padding: 1rem 5rem 0.8rem 0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  color: var(--dark-color);
+  text-decoration: none;
+  margin: 0 1rem;
+  padding-bottom: 0.2rem;
+  position: relative;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background-color: var(--dark-color);
+  transition: width 0.3s ease;
+  border-radius: 2px;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+#showcase-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+#showcase-heading {
+  width: 40%;
+}
+
+#showcase-description {
+  width: 80%;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+}
+
+#showcase-image-container {
+  width: 60%;
+  padding-right: 5rem;
+}
+
+#showcase-image {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.showcase-heading {
+  font-size: 3rem;
+  font-weight: 500;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.showcase-heading::after {
+  content: "";
+  height: 13px;
+  background-color: var(--green-color);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: block;
+  animation: underlineAnimation 1s ease-in-out;
+}
+
+#showcase-button {
+  margin-top: 2rem;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-color);
+  font-size: 1.1rem;
+}
