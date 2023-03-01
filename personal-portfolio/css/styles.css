@@ -12,7 +12,7 @@
   --dark-color: #00272b;
   --darker-color: #002327;
   --white-color: #fefffe;
-  --gray-color: #b1b1b1;
+  --hover-color: #5da79a;
   --max-width: 85vw;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .button:hover {
-  border-color: var(--gray-color);
+  border-color: var(--hover-color);
 }
 
 .button-icon {
@@ -72,7 +72,7 @@ body {
 }
 
 .footer-link:hover {
-  color: var(--gray-color);
+  color: var(--hover-color);
 }
 
 #navbar,
