@@ -25,6 +25,7 @@
   }
 }
 
+/* *Utilities */
 .section {
   background-color: var(--background-color);
   padding: 3rem 5rem;
@@ -65,6 +66,7 @@
   color: var(--green-color);
 }
 
+/* *All page content */
 #navbar {
   display: flex;
   justify-content: flex-end;
@@ -100,6 +102,15 @@
   width: 100%;
 }
 
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-color);
+  font-size: 1.1rem;
+}
+
+/* *Index */
 #showcase-section {
   display: flex;
   justify-content: space-between;
@@ -150,6 +161,7 @@
   margin-top: 2rem;
 }
 
+/* *About */
 #about-description-container {
   display: flex;
   align-items: center;
@@ -314,12 +326,4 @@
 
 #zooom-skill {
   width: 60%;
-}
-
-#footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--background-color);
-  font-size: 1.1rem;
 }
