@@ -1,0 +1,194 @@
+#profile-image {
+  width: 13rem;
+  height: 13rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#about-section-container {
+  display: flex;
+  margin-top: 2rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#about-description {
+  width: 80%;
+  color: var(--white-color);
+  font-weight: 300;
+}
+
+#about-skills .heading-2 {
+  display: block;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#about-skills-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.skill-column {
+  width: 20%;
+}
+
+.skill {
+  margin: 1rem 0;
+}
+
+.line {
+  width: 100%;
+  border: 1px solid var(--white-color);
+  height: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 0.3rem;
+}
+
+.line-fullfillment {
+  background-color: var(--white-color);
+  height: 8px;
+  border-radius: inherit;
+}
+
+#html-skill {
+  width: 100%;
+}
+
+#css-skill {
+  width: 90%;
+}
+
+#javascript-skill {
+  width: 50%;
+}
+
+#react-skill {
+  width: 30%;
+}
+
+#redux-skill {
+  width: 30%;
+}
+
+#sass-skill {
+  width: 80%;
+}
+
+#bootstrap-skill {
+  width: 80%;
+}
+
+#jquery-skill {
+  width: 80%;
+}
+
+#python-skill {
+  width: 70%;
+}
+
+#django-skill {
+  width: 20%;
+}
+
+#word-skill {
+  width: 100%;
+}
+
+#excel-skill {
+  width: 100%;
+}
+
+#powerpoint-skill {
+  width: 90%;
+}
+
+#access-skill {
+  width: 60%;
+}
+
+#teams-skill {
+  width: 100%;
+}
+
+#meet-skill {
+  width: 80%;
+}
+
+#zoom-skill {
+  width: 70%;
+}
+
+#facetime-skill {
+  width: 100%;
+}
+
+#email-skill {
+  width: 100%;
+}
+
+#socialmedia-skill {
+  width: 100%;
+}
+
+#photoshop-skill {
+  width: 80%;
+}
+
+#illustrator-skill {
+  width: 100%;
+}
+
+#aftereffects-skill {
+  width: 10%;
+}
+
+#premiere-skill {
+  width: 50%;
+}
+
+#lightroom-skill {
+  width: 100%;
+}
+
+#davinci-skill {
+  width: 80%;
+}
+
+#camtasia-skill {
+  width: 100%;
+}
+
+#filmora-skill {
+  width: 40%;
+}
+
+#about-languages .heading-2 {
+  display: block;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#about-languages-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6rem;
+}
+
+.language {
+  width: 30%;
+}
+
+#english {
+  width: 90%;
+}
+
+#german {
+  width: 60%;
+}
+
+#czech {
+  width: 100%;
+}
