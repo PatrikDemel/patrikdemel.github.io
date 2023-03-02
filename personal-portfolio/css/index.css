@@ -39,3 +39,41 @@
   width: 100%;
   border-radius: 15px;
 }
+
+@media screen and (max-width: 769px) {
+  #showcase-section {
+    display: block;
+    height: 50vh;
+  }
+  .showcase-section-container:nth-of-type(2) {
+    display: none;
+  }
+
+  .showcase-section-container {
+    width: 100%;
+  }
+
+  #showcase-heading {
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  #showcase-subheading {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+
+  #showcase-description {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  #showcase-button {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto 0 auto;
+  }
+}

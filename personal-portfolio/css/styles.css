@@ -129,3 +129,55 @@ body {
 .navbar-link:hover::after {
   width: 100%;
 }
+
+@media screen and (max-width: 769px) {
+  body {
+    max-width: 90vw;
+  }
+
+  #navbar {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .navbar-link {
+    font-size: 1rem;
+    margin: 0 0.5rem;
+  }
+
+  #footer {
+    flex-direction: column;
+    align-items: normal;
+    padding-bottom: 5rem;
+  }
+
+  .footer-container {
+    width: 100%;
+    margin: 0;
+    justify-content: space-between;
+  }
+
+  .footer-container:nth-of-type(2) {
+    margin: 0;
+    justify-content: space-between;
+  }
+
+  .heading-1 {
+    font-size: 2.3rem;
+    text-align: center;
+  }
+
+  .heading-2 {
+    font-size: 1.5rem;
+  }
+
+  .heading-3 {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 2560px) {
+  body {
+    max-width: 50vw;
+  }
+}

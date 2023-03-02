@@ -71,3 +71,14 @@
 .form-message-input:focus {
   border-color: var(--hover-color);
 }
+
+@media screen and (max-width: 769px) {
+  #form-background {
+    background-color: transparent;
+    width: 90%;
+  }
+
+  #contact-form {
+    width: 100%;
+  }
+}

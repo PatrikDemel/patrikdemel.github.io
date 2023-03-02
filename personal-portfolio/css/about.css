@@ -192,3 +192,43 @@
 #czech {
   width: 100%;
 }
+
+@media screen and (max-width: 769px) {
+  #profile-image {
+    display: none;
+  }
+
+  #about-description {
+    width: 100%;
+    margin: 0 1rem;
+    font-size: 0.7rem;
+  }
+
+  #about-section-container {
+    margin: 0.5rem 0 0 0;
+  }
+
+  #about-languages .heading-2 {
+    margin-top: 3rem;
+  }
+
+  .language {
+    margin-top: 1rem;
+  }
+
+  #about-skills-container {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skill-column {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 770px) and (max-width: 1024px) {
+  #about-description {
+    width: 70%;
+  }
+}
