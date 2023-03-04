@@ -1,0 +1,10 @@
+#index-section {
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.idnex-section-container {
+  width: 50%;
+}
