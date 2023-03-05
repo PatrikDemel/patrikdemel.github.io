@@ -3,8 +3,16 @@
   align-items: center;
   position: relative;
   overflow: hidden;
+  height: 90vh;
 }
 
 .idnex-section-container {
   width: 50%;
+}
+
+#showcase-image {
+  height: 90%;
+  position: absolute;
+  bottom: -25px;
+  right: 0;
 }
