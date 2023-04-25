@@ -4,9 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/styles.css" />
-    <link rel="icon" href="./img/favicon.svg" />
-    <title>Real předpovídač Bakaláři</title>
+    <script src="./js/script.js"></script>
+    <title>Predictor</title>
   </head>
 
-  <body></body>
+  <body>
+    <section id="header">
+      <h1 class="heading-1">Bakaláři predictor</h1>
+      <nav id="navbar">
+        <button class="nav-button" id="absence-button">Absence</button>
+        <button class="nav-button" id="znamky-button">Známky</button>
+      </nav>
+    </section>
+    <div class="card hidden" id="znamky-card">znamky</div>
+    <div class="card hidden" id="absence-card">absence</div>
+  </body>
 </html>
