@@ -1,16 +1,16 @@
 document.addEventListener("DOMContentLoaded", () => {
   let absence_button = document.getElementById("absence-button");
-  let znamky_button = document.getElementById("znamky-button");
-  let absence_card = document.getElementById("absence-card");
-  let znamky_card = document.getElementById("znamky-card");
 
-  absence_button.onclick = function () {
-    absence_card.className = "shown";
-    znamky_card.className = "hidden";
-  };
+  function absence_calc() {
+    let all_hours = Number(document.getElementById("all-hodiny").value);
+    let missed_hours = Number(document.getElementById("missed-hodiny").value);
+    let percent_number = all_hours / missed_hours;
+    let percents = 100 / percent_number;
 
-  znamky_button.onclick = function () {
-    absence_card.className = "hidden";
-    znamky_card.className = "shown";
-  };
+    let percent_result = document.getElementById("result-percents");
+
+    percent_result.innerHTML(percents);
+  }
+
+  absence_button.onclick = absence_calc;
 });

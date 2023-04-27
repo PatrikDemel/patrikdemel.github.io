@@ -1,22 +1,56 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cs">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="icon" href="./img/favicon.svg" />
     <script src="./js/script.js"></script>
     <title>Predictor</title>
   </head>
 
   <body>
-    <section id="header">
-      <h1 class="heading-1">Bakaláři predictor</h1>
-      <nav id="navbar">
-        <button class="nav-button" id="absence-button">Absence</button>
-        <button class="nav-button" id="znamky-button">Známky</button>
-      </nav>
-    </section>
-    <div class="card hidden" id="znamky-card">znamky</div>
-    <div class="card hidden" id="absence-card">absence</div>
+    <h1 class="heading-1">Bakaláři predictor</h1>
+    <div class="container">
+      <section id="absence-section">
+        <div id="absence-form">
+          <div id="absence-form-inputs">
+            <input
+              type="number"
+              class="absence-input-field"
+              id="all-hodiny"
+              placeholder="Počet odučených hodin"
+            />
+            <input
+              type="number"
+              class="absence-input-field"
+              id="missed-hodiny"
+              placeholder="Počet zameškaných hodin"
+            />
+          </div>
+          <button class="button" id="absence-button" onclick="absence_calc()">
+            Vypočítat
+          </button>
+        </div>
+        <div id="absence-result">
+          <p class="absence-result-text">
+            Procenta absence: <span class="colored-text"></span
+            ><span id="result-percents" class="colored-text">%</span>
+          </p>
+          <p class="absence-result-text">
+            Pro 25% je potřeba <span class="colored-text"></span> odučených
+            hodin
+          </p>
+        </div>
+      </section>
+      <section id="znamky-section"></section>
+    </div>
   </body>
 </html>
