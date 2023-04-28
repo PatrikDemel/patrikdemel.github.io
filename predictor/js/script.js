@@ -69,11 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
       li.textContent = new_grade + ' (váha: ' + new_value + ')';
       li.setAttribute('class', 'znamka');
 
-      let icon = document.createElement('i');
-      icon.setAttribute('class', 'fa-solid fa-xmark delete-icon');
-
       grade_list.appendChild(li);
-      li.appendChild(icon);
 
       grades_list.push(Number(new_grade));
       values_list.push(Number(new_value));
