@@ -9,8 +9,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
       integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
       crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+      referrerpolicy="no-referrer" />
     <link rel="icon" href="./img/favicon.svg" />
     <script src="./js/script.js"></script>
     <title>Predictor</title>
@@ -26,31 +25,53 @@
               type="number"
               class="absence-input-field"
               id="all-hodiny"
-              placeholder="Počet odučených hodin"
-            />
+              placeholder="Počet odučených hodin" />
             <input
               type="number"
               class="absence-input-field"
               id="missed-hodiny"
-              placeholder="Počet zameškaných hodin"
-            />
+              placeholder="Počet zameškaných hodin" />
           </div>
-          <button class="button" id="absence-button" onclick="absence_calc()">
-            Vypočítat
-          </button>
+          <button class="button" id="absence-button">Vypočítat</button>
         </div>
         <div id="absence-result">
           <p class="absence-result-text">
-            Procenta absence: <span class="colored-text"></span
-            ><span id="result-percents" class="colored-text">%</span>
+            Zameškaná absence: <span class="colored-text"></span
+            ><span id="result-percents" class="colored-text">0 %</span>
           </p>
           <p class="absence-result-text">
-            Pro 25% je potřeba <span class="colored-text"></span> odučených
-            hodin
+            Pro 25% je potřeba přibližně
+            <span class="colored-text" id="absence-needed-field">0</span>
+            odučených hodin
           </p>
         </div>
       </section>
-      <section id="znamky-section"></section>
+      <section id="znamky-section">
+        <div id="znamky-form">
+          <div id="znamky-form-inputs">
+            <input
+              type="number"
+              class="znamky-input-field"
+              id="new-znamka"
+              placeholder="Známka" />
+            <input
+              type="number"
+              class="znamky-input-field"
+              id="znamka-value"
+              placeholder="Váha" />
+          </div>
+          <button class="button" id="add-znamka-button">Přidat</button>
+        </div>
+        <div id="znamky-field">
+          <ul id="znamky-list"></ul>
+        </div>
+        <button class="button" id="znamky-button">Vypočítat</button>
+        <div id="znamky-result">
+          <p class="znamky-result">
+            Průměr: <span class="colored-text" id="znamky-average"></span>
+          </p>
+        </div>
+      </section>
     </div>
   </body>
 </html>
