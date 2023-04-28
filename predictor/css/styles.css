@@ -14,10 +14,18 @@ body {
   margin: auto;
 }
 
+section {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .heading-1 {
   text-align: center;
   margin-top: 5rem;
   font-size: 3rem;
+  color: #186d9b;
 }
 
 .container {
@@ -64,7 +72,7 @@ section {
 #absence-form-inputs {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1.5rem;
+  margin-bottom: 3rem;
 }
 
 .button {
@@ -110,4 +118,44 @@ section {
 .absence-result-text,
 #znamky-result {
   font-size: 1.2rem;
+}
+
+@media screen and (max-width: 769px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+  }
+
+  section {
+    width: 70vw;
+  }
+
+  #znamky-section {
+    margin-bottom: 3rem;
+  }
+
+  #znamky-form-inputs,
+  #absence-form-inputs {
+    flex-direction: column;
+  }
+
+  .znamky-input-field,
+  .absence-input-field {
+    width: 100%;
+  }
+
+  .absence-result-text {
+    margin-top: 2rem;
+  }
+
+  #znamky-form {
+    flex-direction: column;
+  }
+
+  #add-znamka-button {
+    width: 100%;
+    margin: 1rem 0;
+    padding: 0.5rem 0;
+  }
 }
