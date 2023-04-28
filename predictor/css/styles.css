@@ -127,8 +127,17 @@ section {
     row-gap: 2rem;
   }
 
+  body {
+    width: 100vw;
+  }
+
   section {
     width: 70vw;
+  }
+
+  #absence-section,
+  #znamky-section {
+    width: 92vw;
   }
 
   #znamky-section {
