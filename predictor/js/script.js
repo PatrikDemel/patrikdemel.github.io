@@ -39,20 +39,28 @@ document.addEventListener('DOMContentLoaded', () => {
     let first_sum = 0;
     let second_sum = 0;
 
-    for (let i = 0; i < grades_list.length; i++) {
-      let times = grades_list[i] * values_list[i];
-      first_sum += times;
+    let new_grade = document.getElementById('new-znamka').value;
+    let new_value = document.getElementById('znamka-value').value;
+    let znamky_prumer_error_field = document.getElementById('znamky-average');
+
+    if (new_grade.length == 0 || new_value.length == 0) {
+      znamky_prumer_error_field.textContent = 'Byly špatně zadané hodnoty';
+    } else {
+      for (let i = 0; i < grades_list.length; i++) {
+        let times = grades_list[i] * values_list[i];
+        first_sum += times;
+      }
+
+      for (let i = 0; i < values_list.length; i++) {
+        second_sum += values_list[i];
+      }
+
+      let grade_average = first_sum / second_sum;
+      let rounded_grade_average = grade_average.toFixed(2);
+
+      let average_field = document.getElementById('znamky-average');
+      average_field.textContent = rounded_grade_average;
     }
-
-    for (let i = 0; i < values_list.length; i++) {
-      second_sum += values_list[i];
-    }
-
-    let grade_average = first_sum / second_sum;
-    let rounded_grade_average = grade_average.toFixed(2);
-
-    let average_field = document.getElementById('znamky-average');
-    average_field.textContent = rounded_grade_average;
   }
 
   function add_grade() {
