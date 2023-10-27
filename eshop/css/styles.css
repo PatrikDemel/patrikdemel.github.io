@@ -1,0 +1,478 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Font set */
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Global variables */
+:root {
+  --dark-color: #080e12;
+  --light-color: #fff;
+  --primary-color: #1f3a47;
+  --secondary-color: #4b8aaa;
+  --secondary-color-lighter: #d4e4ec;
+}
+
+/* Scrollbar customization */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #1f3a47 #ffffff;
+}
+
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1f3a47;
+  border-radius: 10px;
+  border: 2px solid #f0f0f0;
+}
+
+/* Utility classes */
+.colored-text {
+  color: var(--secondary-color);
+}
+
+@media screen and (max-width: 991px) {
+  .nav-item-mobile-margin {
+    margin: 1rem 0;
+  }
+}
+
+@media screen and (width < 576px) {
+  .align-items-center-exsm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* ----------- Large screens ------------ */
+/* Navbar */
+@media screen and (width >= 992px) {
+  /* Navlink */
+  .navlink {
+    color: var(--dark-color);
+    text-decoration: none;
+    font-size: 1.2rem;
+    position: relative;
+    padding-bottom: 0.3rem;
+  }
+
+  .navlink::after {
+    content: '';
+    width: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4px;
+    background-color: var(--secondary-color);
+    transition: width ease-in-out 0.3s;
+    border-radius: 40px;
+  }
+
+  .navlink:hover::after {
+    width: 100%;
+  }
+
+  .navlinkicon {
+    color: var(--dark-color);
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin: 0 1rem;
+    padding-bottom: 0.3rem;
+    transition: color ease-in-out 0.2s;
+  }
+
+  .navlinkicon:hover {
+    color: var(--secondary-color);
+  }
+
+  /* Heading 1 */
+  .heading-1 {
+    font-size: 4rem;
+    font-weight: bold;
+    width: 50%;
+    margin-top: 10rem;
+    cursor: default;
+  }
+
+  /* Main description */
+  .main-description {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    width: 50%;
+    margin-bottom: 2rem;
+    cursor: default;
+  }
+
+  /* Background image */
+  .background-image-container {
+    width: 100vw;
+    min-height: 100vh;
+    background: url(../imgs/background-image.png) center center/cover;
+  }
+
+  /* Button */
+  .button {
+    padding: 0.5rem 3rem;
+    border: 3px solid var(--primary-color);
+    border-radius: 40px;
+    text-decoration: none;
+    color: var(--dark-color);
+    transition: all ease-in-out 0.2s;
+    display: inline-block;
+    color: var(--dark-color);
+    background-color: transparent;
+  }
+
+  .button:hover {
+    color: var(--light-color);
+    background-color: var(--primary-color);
+  }
+
+  /* Heading 2 */
+  .heading-2 {
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: default;
+    margin: 5rem 0 2rem 0;
+    position: relative;
+  }
+
+  /* Form input */
+  .form-input {
+    border: 3px solid var(--primary-color);
+    border-radius: 25px;
+    padding: 0.5rem 1rem;
+    transition: border ease-in-out 0.2s;
+    outline: none;
+    margin: 0.5rem 0;
+    position: relative;
+  }
+
+  .form-input:focus {
+    border: 3px solid var(--secondary-color);
+  }
+
+  .form-input::-webkit-scrollbar {
+    width: 0;
+  }
+
+  /* Contact image */
+  .contact-image {
+    display: block;
+  }
+
+  /* Product gallery */
+  .product-box {
+    width: 18rem;
+    background-color: rgb(238, 238, 238);
+    padding: 2rem;
+    border-radius: 25px;
+  }
+
+  .product-gallery-heading {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 1rem;
+    cursor: default;
+  }
+
+  .product-gallery-price {
+    font-size: 1.2rem;
+    cursor: default;
+  }
+
+  /* User page */
+  .user-row {
+    border-bottom: 1px solid var(--primary-color);
+    font-size: 1.2rem;
+    cursor: default;
+  }
+
+  .user-products-order-thead {
+    background-color: var(--primary-color);
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+
+  /* Login page */
+  .login-background-image {
+    width: 100vw;
+    height: 100vh;
+    background: url(../imgs/login-background.svg) center center/cover;
+  }
+
+  .login-form {
+    justify-content: center;
+  }
+
+  .login-form-row {
+    border: 3px solid var(--primary-color);
+    border-radius: 30px;
+    width: 50%;
+  }
+
+  .login-form-input {
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    background-color: transparent;
+    width: 100%;
+    padding-left: 1rem;
+  }
+
+  .login-form-icon {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+    font-size: 1.3rem;
+    border-radius: 19px 0 0 19px;
+    padding: 1rem 1rem 1rem 1.3rem;
+  }
+
+  .login-button {
+    width: 20%;
+    text-align: center;
+    border-color: var(--primary-color);
+  }
+
+  .login-button:hover {
+    background-color: var(--primary-color);
+  }
+
+  /* Particular CSS */
+  .contact-button {
+    width: 35%;
+  }
+}
+
+/* ----------- Small screens ------------ */
+@media screen and (max-width: 991px) {
+  /* Navbar */
+  .navlink {
+    color: var(--dark-color);
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+
+  .navlinkicon {
+    color: var(--dark-color);
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin: 0 1rem;
+
+    transition: color ease-in-out 0.2s;
+  }
+
+  /* Heading 1 */
+  .heading-1 {
+    font-size: 4rem;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    cursor: default;
+    margin-top: 5rem;
+  }
+
+  /* Main description */
+  .main-description {
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+    cursor: default;
+    padding: 0 2rem;
+  }
+
+  /* Background image */
+  .background-image-container {
+    width: 100vw;
+    min-height: 100vh;
+    background: url(../imgs/background-image-md.svg) center center/cover;
+  }
+
+  /* Button */
+  .button {
+    padding: 0.5rem 3rem;
+    border: 3px solid var(--primary-color);
+    border-radius: 40px;
+    text-decoration: none;
+    color: var(--dark-color);
+    transition: all ease-in-out 0.2s;
+    display: inline-block;
+    color: var(--dark-color);
+    background-color: transparent;
+  }
+
+  .button:hover {
+    color: var(--light-color);
+    background-color: var(--primary-color);
+  }
+
+  /* Heading 2 */
+  .heading-2 {
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: default;
+    margin: 3rem 0 2rem 0;
+    text-align: center;
+  }
+
+  /* Form input */
+  .form-input {
+    border: 3px solid var(--primary-color);
+    border-radius: 25px;
+    padding: 0.5rem 1rem;
+    transition: border ease-in-out 0.2s;
+    outline: none;
+    margin: 0.5rem 0;
+    position: relative;
+    width: 100%;
+  }
+
+  .form-input:focus {
+    border: 3px solid var(--secondary-color);
+  }
+
+  .form-input::-webkit-scrollbar {
+    width: 0;
+  }
+
+  /* Contact image */
+  .contact-image {
+    display: none;
+  }
+
+  /* Products gallery */
+  .gallery {
+    justify-content: center;
+  }
+
+  /* Product gallery */
+  .product-box {
+    width: 15rem;
+    background-color: rgb(238, 238, 238);
+    padding: 2rem;
+    border-radius: 25px;
+  }
+
+  .product-gallery-heading {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .product-gallery-price {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  /* Product */
+  .product-image {
+    width: 50%;
+  }
+
+  /* User page */
+  .user-row {
+    border-bottom: 1px solid var(--primary-color);
+    font-size: 1.2rem;
+    cursor: default;
+  }
+
+  .user-products-order-thead {
+    background-color: var(--primary-color);
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+
+  /* Login page */
+  .login-background-image {
+    width: 100vw;
+    height: 100vh;
+    background: url(../imgs/login-background.svg) center center/cover;
+  }
+
+  .login-form {
+    justify-content: center;
+  }
+
+  .login-form-row {
+    border: 3px solid var(--primary-color);
+    border-radius: 30px;
+    width: 90%;
+  }
+
+  .login-form-input {
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    background-color: transparent;
+    width: 100%;
+    padding-left: 1rem;
+  }
+
+  .login-form-icon {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+    font-size: 1.3rem;
+    border-radius: 19px 0 0 19px;
+    padding: 1rem 1rem 1rem 1.3rem;
+  }
+
+  .login-button {
+    width: 50%;
+    text-align: center;
+    border-color: var(--primary-color);
+  }
+
+  .login-button:hover {
+    background-color: var(--primary-color);
+  }
+
+  /* Particular CSS */
+  .contact-button {
+    width: 60%;
+  }
+}
+
+/* SMALL HEIGHT */
+@media screen and (height < 800px) {
+  /* Heading 1 */
+  .background-image-container {
+    min-height: 100vh;
+    padding-bottom: 15rem;
+  }
+
+  .login-background-image {
+    background: none;
+  }
+}
+
+/* ------- SMALLER HEIGHT ---------- */
+@media screen and (height < 700px) {
+  /* Heading 1 */
+  .heading-1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+  }
+
+  /* Main description */
+  .main-description {
+    margin-bottom: 1rem;
+  }
+
+  .login-background-image {
+    background: none;
+  }
+}

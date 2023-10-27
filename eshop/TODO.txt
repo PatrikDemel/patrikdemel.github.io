@@ -1,0 +1,6 @@
+TODO:
+
+- product 
+- cart
+- responsivness
+- upload
